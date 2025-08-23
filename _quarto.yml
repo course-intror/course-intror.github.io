@@ -8,7 +8,7 @@ website:
   title: "introR"
   favicon: img/favicon.ico
   navbar:
-    # logo: img/favicon.ico
+    logo: img/favicon.ico
     tools:
     - icon: github
       href: https://github.com/course-intror

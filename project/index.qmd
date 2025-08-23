@@ -1,6 +1,6 @@
 ---
 title: "Projetos"
-subtitle: "Projetos da disciplina introR: introdução à linguagem R"
+subtitle: "Projetos da disciplina introR: introdução à linguagem R."
 page-layout: full
 title-block-banner: false
 toc: true
