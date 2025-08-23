@@ -19,11 +19,11 @@ Acesse as outras páginas para [cronograma](/schedule), [tarefas](/task) e [proj
 
 Dúvidas, entre em contato enviando uma [mensagem](/contact.qmd).
 
-## Ementa
+# Ementa
 
 A disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem.
 
-## Objetivos dos curso
+# Objetivos dos curso
 
 -	Apresentar os conceitos e aplicações do controle de versão com git/GitHub, destacando sua importância para o trabalho colaborativo em ciência.
 -	Explorar aspectos teóricos e práticos do uso do software git e de repositórios remotos no GitHub.
@@ -31,7 +31,7 @@ A disciplina tem como foco principal o controle de versão com git/GitHub e a in
 -	Desenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.
 -	Abordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes.
 
-## Bibliografia principal
+# Bibliografia principal
 
 1. Da Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). [Análises Ecológicas no R](https://analises-ecologicas.com/). Recife: Nupeea. Bauru, SP: Canal 6.
 
