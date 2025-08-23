@@ -54,7 +54,7 @@ A disciplina tem como foco principal o controle de versão com git/GitHub e a in
 1. Conflitos
 1. Interface gráfica do RStudio
 
-### 2 introdução à programação em R (Base R)
+### 2 Introdução à programação em R (Base R)
 
 1. Linguagem R
 1. RStudio
@@ -106,7 +106,7 @@ A disciplina tem como foco principal o controle de versão com git/GitHub e a in
 1. Gráficos interativos
 1. Gráficos usando interface
 
-### 4 tópicos avançados em programação no R
+### 4 Tópicos avançados em programação no R
 
 1. Tabelas de frequência
 1. Frequência absoluta e relativa

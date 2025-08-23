@@ -6,7 +6,7 @@ image: img/featured-hex.png
 
 about:
   template: jolla # jolla, trestles, solana, marquee, broadside
-  image-width: 20em
+  image-width: 15em
   image-shape: rounded # rectangle, round, rounded
   id: hero-heading
 page-layout: full

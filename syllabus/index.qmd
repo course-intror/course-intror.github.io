@@ -15,7 +15,7 @@ Esta é a webpage da disciplina **introR: introdução à linguagem R**.
 
 Acesse o [PDF](/syllabus/syllabus.pdf) do plano de ensino completo.
 
-Acesse as outras páginas para [cronograma](/schedule) e [projetos](/project).
+Acesse as outras páginas para [cronograma](/schedule), [tarefas](/task) e [projetos](/project).
 
 Dúvidas, entre em contato enviando uma [mensagem](/contact.qmd).
 
