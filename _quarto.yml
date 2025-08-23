@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+lang: pt-BR
+
+website:
+  title: "introR"
+  favicon: img/favicon.ico
+  navbar:
+    # logo: img/favicon.ico
+    tools:
+    - icon: github
+      href: https://github.com/mauriciovancine/course-intror
+    right:
+      - text: Sobre
+        aria-label: "Plano de ensino"
+        href: about/index.qmd
+      - text: Material
+        aria-label: "Cronograma"
+        href: material/index.qmd  
+      - text: Projetos
+        aria-label: "Projetos"
+        href: project/index.qmd
+
+  page-footer:  
+    left: >-
+     &#169; 2025 Maurício Vancine &#8729; Feito com[Quarto](https://quarto.org){target="_blank"}.
+    right: 
+      - text: "Contato"
+        aria-label: "Contato"
+        href: contact.qmd
+      - text: "Licença"
+        aria-label: "License Details"
+        href: license.qmd
+      - text: "Financiamento"
+        aria-label: "Financiamento"
+        href: contributors.qmd
+
+format:
+  html:
+    theme: cosmo
+    highlight-style: nord
+    css: styles.css
+    toc: true
+
+editor: visual

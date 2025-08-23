@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "introR: introdução à linguagem R",
+    "section": "",
+    "text": "Olá! Bem-vindos!\nEsta é a webpage da disciplina introR: introdução à linguagem R.\nAcesse as outras páginas para material e projetos.\nDúvidas, entre m contato enviando uma mensagem.\n\n\nA disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem.\n\n\n\n\nApresentar os conceitos e aplicações do controle de versão com git/GitHub, destacando sua importância para o trabalho colaborativo em ciência.\nExplorar aspectos teóricos e práticos do uso do software git e de repositórios remotos no GitHub.\nIntroduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyverse.\nDesenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.\nAbordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes.\n\n\n\n\n\nDia 01\n\n\nBoas-vindas e apresentações.\nAula teórica 1: ciência aberta e controle de versão.\nAula prática 1: prática com git e repositórios no GitHub.\n\n\nDia 02\n\n\nAula teórica 2: introdução à programação em R (Base R).\nAula teórica 3: introdução à programação em R (tidyverse).\n\n\nDia 03\n\n\nAula teórica 4: tópicos avançados em programação no R (controle de fluxo, repetições e funções).\nAula prática 2: integração entre R e git/GitHub em trabalho científicos.\n\n\nDia 04\n\n\nProjeto prático: desenvolvimento de uma análise ecológica reprodutível usando R e git/GitHub (em grupos).\nProjeto prático: apresentação dos projetos práticos,\nDiscussão: reprodutibilidade e transparência em ciência, desafios e perspectivas no uso de R e git/GitHub para ecologia,\nEncerramento da disciplina.\n\n\n\n\n\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6. ISBN 978-85-7917-563-3.\nPerez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology, 12(7), e1004947.\nBraga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364–1380.\nWickham, H., Cetinkaya-Rundel, M., & Grolemund, G. (2023). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.\nWickham, H. (2019). Advanced R. Chapman and Hall/CRC.\n\n\n\n↑ Topo"
+  },
+  {
+    "objectID": "about/index.html#sobre-a-disciplina",
+    "href": "about/index.html#sobre-a-disciplina",
+    "title": "introR: introdução à linguagem R",
+    "section": "Sobre a disciplina",
+    "text": "Sobre a disciplina\n\n\nSou um caipira nerd do interior de Socorro/SP, pai do Dudu, companheiro da Japa, amante de música instrumental, livros, games, softwares livres, programação e uma boa cerveja.\nEu amo sapos! Entretanto, quase nunca os vejo, pois toda minha pesquisa é desenvolvida através de dados já coletados, planilhas, arquivos gigantescos de métricas de paisagem, análises estatísticas, e códigos, muitos códigos… Além é claro de uma boa dose de abstração.\nFiz parte do Laboratório de Ecologia Espacial e Conservação (LEEC), onde trabalhamos com a compilação de dados de biodiversidade, cálculo de métricas de paisagem e desenvolvimento de ferramentas em Ecologia da Paisagem.\n\n\nDurante minha graduação em Ecologia (sou Ecólogo de formação), me especializei em modelagem ecológica, principalmente em Modelagem de Distribuição de Espécies (Species Distribution Modeling - SDMs), além de análises de dados ecológicos, estatística e geoprocessamento.\nDevido a esse contato com modelagem e estatística, acabei desenvolvemente grande afinidade com a Linguagem R, com foco na manipulação e visualização de dados geoespaciais. Tenho também bastante experiência com softwares de SIG, como QGIS e GRASS GIS.\nPubliquei um livro chamado Análises Ecológicas no R, que faz parte de um projeto maior de difusão e ensino da linguagem R aplicada à Ecologia, chamado Ecologia no R."
+  },
+  {
+    "objectID": "material/index.html",
+    "href": "material/index.html",
+    "title": "Material",
+    "section": "",
+    "text": "Dia\nAtividade\nSlides\n\n\n\n\nDia 01\nBoas-vindas e apresentações\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 01\nAula teórica 1: ciência aberta e controle de versão\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 01\nAula prática 1: prática com git e repositórios no GitHub\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 02\nAula teórica 2: introdução à programação em R (Base R)\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 02\nAula teórica 3: introdução à programação em R (tidyverse)\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 03\nAula teórica 4: tópicos avançados em programação no R (controle de fluxo, repetições e funções)\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 03\nAula prática 2: integração entre R e git/GitHub em trabalho científicos\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 04\nProjeto prático: desenvolvimento de uma análise ecológica reprodutível usando R e git/GitHub (em grupos)\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 04\nProjeto prático: apresentação dos projetos práticos\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 04\nDiscussão: reprodutibilidade e transparência em ciência, desafios e perspectivas no uso de R e git/GitHub para ecologia\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\nDia 04\nEncerramento da disciplina\nr icons::icon_link(\"file-slides\", href = \"#\")\n\n\n\n\n\n↑ Topo"
+  },
+  {
+    "objectID": "slide/index.html",
+    "href": "slide/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "↑ Topo\n\n\n\n\n\n\n\n\n   \n     \n     \n       Ordenar por\n       Padrão\n         \n          Título\n        \n         \n          Data - Mais antigo\n        \n         \n          Data - O mais novo\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nSem itens correspondentes"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "Licença",
+    "section": "",
+    "text": "O conteúdo desta disciplina é distribuída sob a licença Creative Commons Attribution-ShareAlike 4.0 International License.\nVocê tem o direito de:\n\nCompartilhar — copiar e redistribuir o material em qualquer suporte ou formato para qualquer fim, mesmo que comercial.\nAdaptar — remixar, transformar, e criar a partir do material para qualquer fim, mesmo que comercial.\nO licenciante não pode revogar estes direitos desde que você respeite os termos da licença.\n\nDe acordo com os termos seguintes:\n\nAtribuição — Você deve dar o crédito apropriado , prover um link para a licença e indicar se mudanças foram feitas. Você deve fazê-lo em qualquer circunstância razoável, mas de nenhuma maneira que sugira que o licenciante apoia você ou o seu uso.\nCompartilha Igual — Se você remixar, transformar, ou criar a partir do material, tem de distribuir as suas contribuições sob a mesma licença que o original.\nSem restrições adicionais — Você não pode aplicar termos jurídicos ou medidas de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a licença permita."
+  },
+  {
+    "objectID": "project/index.html",
+    "href": "project/index.html",
+    "title": "Projetos",
+    "section": "",
+    "text": "↑ Topo"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contato",
+    "section": "",
+    "text": "Este formulário é para entrar em contato sobre dúvidas relacionadas à disciplina introR: introdução à linguagem R.\n\n\n\n\n\n\n\nNome \nEmail \nMessagem\n\n\nEnviar"
+  },
+  {
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "Financiamentos",
+    "section": "",
+    "text": "Título: Impactos dos efeitos de borda, fogo e mudanças climáticas na composição da vegetação e diversidade funcional em diferentes escalas espaciais na Floresta Amazônica\nAgência: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)\nUniversidade: Universidade Estadual de Campinas (Unicamp)\nBolsa: #2024/19865-6\nValor: R$ 316.800,00"
+  },
+  {
+    "objectID": "contributors.html#pós-doutorado",
+    "href": "contributors.html#pós-doutorado",
+    "title": "Financiamentos",
+    "section": "",
+    "text": "Título: Impactos dos efeitos de borda, fogo e mudanças climáticas na composição da vegetação e diversidade funcional em diferentes escalas espaciais na Floresta Amazônica\nAgência: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)\nUniversidade: Universidade Estadual de Campinas (Unicamp)\nBolsa: #2024/19865-6\nValor: R$ 316.800,00"
+  },
+  {
+    "objectID": "contributors.html#doutorado",
+    "href": "contributors.html#doutorado",
+    "title": "Financiamentos",
+    "section": "Doutorado",
+    "text": "Doutorado\n\nTítulo: Estrutura da paisagem como preditor da diversidade taxonômica e funcional de anfíbios na Mata Atlântica\nAgência: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)\nUniversidade: Universidade Estadual Paulista (UNESP) - Câmpus de Rio Claro\nBolsa: #2022/01899-6\nValor: R$ 91.002,24"
+  },
+  {
+    "objectID": "contributors.html#mestrado",
+    "href": "contributors.html#mestrado",
+    "title": "Financiamentos",
+    "section": "Mestrado",
+    "text": "Mestrado\n\nTítulo: Efeito das modificações da paisagem e das mudanças climáticas sobre a persistência de anfíbios na Mata Atlântica\nAgência: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)\nUniversidade: Universidade Estadual Paulista (UNESP) - Câmpus de Rio Claro\nBolsa: #2017/09676-8\nValor: R$ 16.248,54"
+  },
+  {
+    "objectID": "contributors.html#iniciação-científica",
+    "href": "contributors.html#iniciação-científica",
+    "title": "Financiamentos",
+    "section": "Iniciação científica",
+    "text": "Iniciação científica\n\nTítulo: Efeito da fragmentação sobre a persistência de anfíbios anuros (Amphibia: Anura) na Mata Atlântica\nAgência: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)\nUniversidade: Universidade Estadual Paulista (UNESP) - Câmpus de Rio Claro\nBolsa: #2013/02883-7\nValor: R$ 10.539,87"
+  },
+  {
+    "objectID": "slides/index.html",
+    "href": "slides/index.html",
+    "title": "Slides",
+    "section": "",
+    "text": "↑ Topo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "introR: introdução à linguagem R",
+    "section": "",
+    "text": "A disciplina introR apresenta os principais conceitos da linguagem R e do IDE RStudio para a manipulação e visualização de dados através do Base R e tidyverse.\nSaiba mais →"
+  },
+  {
+    "objectID": "index.html#a-disciplina-intror-apresenta-os-principais-conceitos-da-linguagem-r-e-do-ide-rstudio-para-a-manipulação-e-visualização-de-dados-através-do-base-r-e-tidyverse.",
+    "href": "index.html#a-disciplina-intror-apresenta-os-principais-conceitos-da-linguagem-r-e-do-ide-rstudio-para-a-manipulação-e-visualização-de-dados-através-do-base-r-e-tidyverse.",
+    "title": "introR: introdução à linguagem R",
+    "section": "A disciplina introR apresenta os principais conceitos da linguagem R e do IDE RStudio para a manipulação e visualização de dados através do Base R e tidyverse.",
+    "text": "A disciplina introR apresenta os principais conceitos da linguagem R e do IDE RStudio para a manipulação e visualização de dados através do Base R e tidyverse.\nSaiba mais →"
+  },
+  {
+    "objectID": "about/index.html#ementa",
+    "href": "about/index.html#ementa",
+    "title": "introR: introdução à linguagem R",
+    "section": "",
+    "text": "A disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem."
+  },
+  {
+    "objectID": "about/index.html#objetivos",
+    "href": "about/index.html#objetivos",
+    "title": "introR: introdução à linguagem R",
+    "section": "",
+    "text": "Apresentar os conceitos e aplicações do controle de versão com git/GitHub, destacando sua importância para o trabalho colaborativo em ciência.\nExplorar aspectos teóricos e práticos do uso do software git e de repositórios remotos no GitHub.\nIntroduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyverse.\nDesenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.\nAbordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes."
+  },
+  {
+    "objectID": "about/index.html#programa",
+    "href": "about/index.html#programa",
+    "title": "introR: introdução à linguagem R",
+    "section": "Programa",
+    "text": "Programa\n\nDia 01 Boas-vindas e apresentações. Aula teórica 1: ciência aberta e controle de versão. Aula prática 1: prática com git e repositórios no GitHub.\nDia 02 Aula teórica 2: introdução à programação em R (Base R). Aula teórica 3: introdução à programação em R (tidyverse).\nDia 03 Aula teórica 4: tópicos avançados em programação no R (controle de fluxo, repetições e funções). Aula prática 2: integração entre R e git/GitHub em trabalho científicos.\nDia 04 Projeto prático: desenvolvimento de uma análise ecológica reprodutível usando R e git/GitHub (em grupos). Projeto prático: apresentação dos projetos práticos, Discussão: reprodutibilidade e transparência em ciência, desafios e perspectivas no uso de R e git/GitHub para ecologia, Encerramento da disciplina."
+  },
+  {
+    "objectID": "about/index.html#bibliografia",
+    "href": "about/index.html#bibliografia",
+    "title": "introR: introdução à linguagem R",
+    "section": "",
+    "text": "Da Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6. ISBN 978-85-7917-563-3.\nPerez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology, 12(7), e1004947.\nBraga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364–1380.\nWickham, H., Cetinkaya-Rundel, M., & Grolemund, G. (2023). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.\nWickham, H. (2019). Advanced R. Chapman and Hall/CRC.\n\n\n\n↑ Topo"
+  },
+  {
+    "objectID": "about/index.html#cronograma",
+    "href": "about/index.html#cronograma",
+    "title": "introR: introdução à linguagem R",
+    "section": "",
+    "text": "Dia 01\n\n\nBoas-vindas e apresentações.\nAula teórica 1: ciência aberta e controle de versão.\nAula prática 1: prática com git e repositórios no GitHub.\n\n\nDia 02\n\n\nAula teórica 2: introdução à programação em R (Base R).\nAula teórica 3: introdução à programação em R (tidyverse).\n\n\nDia 03\n\n\nAula teórica 4: tópicos avançados em programação no R (controle de fluxo, repetições e funções).\nAula prática 2: integração entre R e git/GitHub em trabalho científicos.\n\n\nDia 04\n\n\nProjeto prático: desenvolvimento de uma análise ecológica reprodutível usando R e git/GitHub (em grupos).\nProjeto prático: apresentação dos projetos práticos,\nDiscussão: reprodutibilidade e transparência em ciência, desafios e perspectivas no uso de R e git/GitHub para ecologia,\nEncerramento da disciplina."
+  },
+  {
+    "objectID": "material/index.html#slides",
+    "href": "material/index.html#slides",
+    "title": "Material",
+    "section": "",
+    "text": "Dia\nAtividade\nSlides\n\n\n\n\nDia 01\nBoas-vindas e apresentações\n📊\n\n\nDia 01\nAula teórica 1: ciência aberta e controle de versão\n📊\n\n\nDia 01\nAula prática 1: prática com git e repositórios no GitHub\n📊\n\n\nDia 02\nAula teórica 2: introdução à programação em R (Base R)\n📊\n\n\nDia 02\nAula teórica 3: introdução à programação em R (tidyverse)\n📊\n\n\nDia 03\nAula teórica 4: tópicos avançados em programação no R (controle de fluxo, repetições e funções)\n📊\n\n\nDia 03\nAula prática 2: integração entre R e git/GitHub em trabalho científicos\n📊\n\n\nDia 04\nProjeto prático: desenvolvimento de uma análise ecológica reprodutível usando R e git/GitHub (em grupos)\n📊\n\n\nDia 04\nProjeto prático: apresentação dos projetos práticos\n📊\n\n\nDia 04\nDiscussão: reprodutibilidade e transparência em ciência, desafios e perspectivas no uso de R e git/GitHub para ecologia\n📊\n\n\nDia 04\nEncerramento da disciplina\n📊\n\n\n\n\n\n\n\n\n\n\n↑ Topo"
+  }
+]

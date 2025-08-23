@@ -1,0 +1,35 @@
+---
+title: "Contato"
+editor: source
+---
+
+::::::::: grid
+::: {#note .g-col-5}
+<br>
+Este formulário é para entrar em contato sobre dúvidas relacionadas à disciplina **introR: introdução à linguagem R**. 
+:::
+
+::: g-col-1
+:::
+
+::: {#form .g-col-6}
+<br><br><br>
+
+<form style="margin-top: -5em;" action="https://formspree.io/f/xdopwjev" method="POST" accept-charset="utf-8">
+
+<label for="full-name">Nome</label> <input type="text" name="name" id="full-name" class="form-control" placeholder="Seu nome" required>
+
+<label for="email-address">Email</label> <input type="email" name="_replyto" id="email-address" class="form-control" placeholder="seu@email.aqui" required>
+
+<label for="message">Messagem</label>
+
+```{=html}
+<textarea rows="6" name="message" id="message" class="form-control" placeholder="Escreva sua mensagem." required></textarea>
+```
+
+<button type="submit" class="btn btn-primary mt-4">
+Enviar
+</button>
+</form>
+:::
+:::::::::

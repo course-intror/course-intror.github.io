@@ -1,0 +1,31 @@
+---
+title: "introR: introdução à linguagem R"
+pagetitle: "introR"
+subtitle: "Disciplina de pós-graduação de introdução à programação usando a linguagem R com foco em dados ecológicos."
+image: img/featured-hex.png
+
+about:
+  template: jolla # jolla, trestles, solana, marquee, broadside
+  image-width: 20em
+  image-shape: rounded # rectangle, round, rounded
+  id: hero-heading
+page-layout: full
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+
+editor: source
+---
+
+<br><br><br>
+
+::: {#hero-heading}
+
+A disciplina introR apresenta os principais conceitos da linguagem R e do IDE RStudio para a manipulação e visualização de dados através do Base R e tidyverse.
+
+[Saiba mais &rarr;](/about){.about-links .subtitle}
+
+:::
+<!-- hero-heading -->
