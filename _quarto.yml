@@ -11,14 +11,18 @@ website:
     # logo: img/favicon.ico
     tools:
     - icon: github
-      href: https://github.com/mauriciovancine/course-intror
+      href: https://github.com/course-intror
+      target: _blank
+    - icon: chat-fill
+      href: https://github.com/orgs/course-intror/discussions
+      target: _blank
     right:
-      - text: Sobre
+      - text: Plano de ensino
         aria-label: "Plano de ensino"
-        href: about/index.qmd
-      - text: Material
+        href: syllabus/index.qmd
+      - text: Cronograma
         aria-label: "Cronograma"
-        href: material/index.qmd  
+        href: schedule/index.qmd  
       - text: Projetos
         aria-label: "Projetos"
         href: project/index.qmd

@@ -25,7 +25,7 @@ editor: source
 
 A disciplina introR apresenta os principais conceitos da linguagem R e do IDE RStudio para a manipulação e visualização de dados através do Base R e tidyverse.
 
-[Saiba mais &rarr;](/about){.about-links .subtitle}
+[Saiba mais &rarr;](/syllabus){.about-links .subtitle}
 
 :::
 <!-- hero-heading -->

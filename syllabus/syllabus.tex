@@ -1,0 +1,474 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  letterpaper,
+  DIV=11,
+  numbers=noendperiod]{scrartcl}
+
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else  
+    % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% Make \paragraph and \subparagraph free-standing
+\makeatletter
+\ifx\paragraph\undefined\else
+  \let\oldparagraph\paragraph
+  \renewcommand{\paragraph}{
+    \@ifstar
+      \xxxParagraphStar
+      \xxxParagraphNoStar
+  }
+  \newcommand{\xxxParagraphStar}[1]{\oldparagraph*{#1}\mbox{}}
+  \newcommand{\xxxParagraphNoStar}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+  \let\oldsubparagraph\subparagraph
+  \renewcommand{\subparagraph}{
+    \@ifstar
+      \xxxSubParagraphStar
+      \xxxSubParagraphNoStar
+  }
+  \newcommand{\xxxSubParagraphStar}[1]{\oldsubparagraph*{#1}\mbox{}}
+  \newcommand{\xxxSubParagraphNoStar}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+\makeatother
+
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+
+\KOMAoption{captions}{tableheading}
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\AtBeginDocument{%
+\ifdefined\contentsname
+  \renewcommand*\contentsname{Índice}
+\else
+  \newcommand\contentsname{Índice}
+\fi
+\ifdefined\listfigurename
+  \renewcommand*\listfigurename{Lista de Figuras}
+\else
+  \newcommand\listfigurename{Lista de Figuras}
+\fi
+\ifdefined\listtablename
+  \renewcommand*\listtablename{Lista de Tabelas}
+\else
+  \newcommand\listtablename{Lista de Tabelas}
+\fi
+\ifdefined\figurename
+  \renewcommand*\figurename{Figura}
+\else
+  \newcommand\figurename{Figura}
+\fi
+\ifdefined\tablename
+  \renewcommand*\tablename{Tabela}
+\else
+  \newcommand\tablename{Tabela}
+\fi
+}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listagem}
+\newcommand*\listoflistings{\listof{codelisting}{Lista de Listagens}}
+\makeatother
+\makeatletter
+\makeatother
+\makeatletter
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\@ifpackageloaded{subcaption}{}{\usepackage{subcaption}}
+\makeatother
+
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{brazilian}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+\usepackage{bookmark}
+
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={introR: introdução à linguagem R},
+  pdflang={pt-BR},
+  colorlinks=true,
+  linkcolor={blue},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+
+
+\title{introR: introdução à linguagem R}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+
+
+\subsubsection{Docentes}\label{docentes}
+
+Prof.~Dr.~Maurício Humberto Vancine
+
+Prof.~Dr.~Mario Moura (responsável)
+
+\subsubsection{Carga horária}\label{carga-horuxe1ria}
+
+30 h (2 créditos)
+
+\subsubsection{Participantes}\label{participantes}
+
+10 alunos (+ 5 especiais)
+
+\subsubsection{Datas e horários}\label{datas-e-horuxe1rios}
+
+Teórico-prático: 14/10/2025 a 17/10/2025 (9-17h)
+
+\subsubsection{Repositório da
+disciplina}\label{reposituxf3rio-da-disciplina}
+
+\url{https://github.com/course-intror}
+
+\subsubsection{Resumo}\label{resumo}
+
+A disciplina tem como foco principal o controle de versão com git/GitHub
+e a introdução à programação em R, aplicada a dados ecológicos. São
+abordados tanto os aspectos teóricos quanto práticos do controle de
+versão, incluindo o uso do software git e de repositórios remotos no
+GitHub. Além disso, são apresentados os principais tópicos de
+programação em R, desde recursos do Base R até o tidyverse, com ênfase
+no manejo e na visualização de dados ecológicos, bem como em tópicos
+avançados de programação na linguagem. Serão abordados os seguintes
+temas: (1) controle de versão com git e GitHub, (2) introdução à
+programação em R (Base R), (3) introdução à programação em R
+(tidyverse), (4) tópicos avançados em programação no R. A carga horária
+total será de 30 horas, onde nos três dias iniciais serão ministrados 20
+horas de aulas teórico-práticas. As 10 horas restantes serão
+direcionadas à formulação e execução de um projeto com dados reais, como
+forma de avaliação para compor a nota final da disciplina. Ao final da
+disciplina, os alunos devem ser capazes de utilizar git/GitHub para
+trabalho colaborativo em ciência e aplicar fundamentos e técnicas
+avançadas de programação em R para manejo, análise e visualização de
+dados ecológicos.
+
+\subsubsection{Conteúdo}\label{conteuxfado}
+
+\subsubsection{1 Controle de versão com git e
+GitHub}\label{controle-de-versuxe3o-com-git-e-github}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Conferindo os computadores
+\item
+  Controle de versão
+\item
+  git e GitHub
+\item
+  Detalhes do GitHub
+\item
+  Criando um repositório
+\item
+  Configuração: git config
+\item
+  Controle de versão na prática
+\item
+  Iniciando localmente: git init
+\item
+  Iniciando remotamente: fork e git clone
+\item
+  Versionamento: git status, git add e git commit
+\item
+  Ignorando: .gitignore
+\item
+  Histórico: git log e git show
+\item
+  Diferença: git diff
+\item
+  Desfazer: git restore, git revert e git reset
+\item
+  Ramificações: git branch, git switch e git merge
+\item
+  Remoto: git remote, git push e git pull
+\item
+  GitHub: Pull request
+\item
+  Conflitos
+\item
+  Interface gráfica do RStudio
+\end{enumerate}
+
+\subsubsection{2 introdução à programação em R (Base
+R)}\label{introduuxe7uxe3o-uxe0-programauxe7uxe3o-em-r-base-r}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Linguagem R
+\item
+  RStudio
+\item
+  Console
+\item
+  Scripts
+\item
+  Operadores
+\item
+  Objetos
+\item
+  Funções
+\item
+  Pacotes
+\item
+  Ajuda
+\item
+  Ambiente
+\item
+  Citações
+\item
+  Principais erros
+\item
+  Atributos dos objetos
+\item
+  Manipulação de dados unidimensionais
+\item
+  Manipulação de dados multidimensionais
+\item
+  Valores faltantes e especiais
+\item
+  Diretório de trabalho
+\item
+  Importar dados
+\item
+  Conferência de dados importados
+\item
+  Exportar dados
+\end{enumerate}
+
+\subsubsection{3 Introdução à programação em R
+(tidyverse)}\label{introduuxe7uxe3o-uxe0-programauxe7uxe3o-em-r-tidyverse}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Contextualização
+\item
+  tidyverse
+\item
+  here
+\item
+  readr, readxl e writexl
+\item
+  tibble
+\item
+  magrittr (pipe - \%\textgreater\%)
+\item
+  tidyr
+\item
+  dplyr
+\item
+  stringr
+\item
+  forcats
+\item
+  lubridate
+\item
+  purrr
+\item
+  Pacotes para produção de gráficos
+\item
+  Gramática dos gráficos
+\item
+  Principal material de estudo
+\item
+  Principais tipos de gráficos
+\item
+  Histograma e Densidade
+\item
+  Gráfico de setores
+\item
+  Gráfico de barras
+\item
+  Gráfico de caixas
+\item
+  Gráfico de dispersão
+\item
+  Gráfico pareado
+\item
+  Combinando gráficos
+\item
+  Gráficos animados
+\item
+  Gráficos interativos
+\item
+  Gráficos usando interface
+\end{enumerate}
+
+\subsubsection{4 tópicos avançados em programação no
+R}\label{tuxf3picos-avanuxe7ados-em-programauxe7uxe3o-no-r}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Tabelas de frequência
+\item
+  Frequência absoluta e relativa
+\item
+  Função: table
+\item
+  Medidas de posição e dispersão
+\item
+  Funções: apply, lapply, sapply, tapply
+\item
+  Controle de fluxo
+\item
+  Condicional: if, else e else if
+\item
+  Estruturas de repetição
+\item
+  Laços: for, while e repeat
+\item
+  Comandos: break e next
+\item
+  Funções
+\item
+  Funções externas: source
+\end{enumerate}
+
+\subsubsection{Referências}\label{referuxeancias}
+
+Chang W. 2013. R Graphics Cookbook: Practical Recipes for Visualizing
+Data. 2 ed.~O'Reilly Media. \url{https://r-graphics.org}
+
+Chacon S., Straub B. 2014. Pro Git. 2 ed.~Apress.
+\url{https://git-scm.com/book/en/v2}
+
+Cotton R. 2013. Learning R: A Step-by-Step Function Guide to Data
+Analysis. O'Reilly Media.
+
+Davies TM. 2016. The Book of R: A First Course in Programming and
+Statistics. No Starch Press.
+
+Damiani A, Milz B, Lente C, Falbel D, Correa F, Trecenti J, Luduvice N,
+Lacerda T, Amorim W. 2025. Ciência de Dados em R.
+\href{https://livro.curso-r.com/}{https://livro.curso-r.com}
+
+Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, Vancine MH.
+2022. Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.
+\url{https://analises-ecologicas.com}
+
+Engel C. 2019. Introduction to R. \url{https://cengel.github.io/R-intro}
+
+Hastle T, Tibshirani R, Friedman J. 2016. The Elements of Statistical
+Learning: Data Mining, Inference, and Prediction. 2 ed.~Springer.
+\url{https://web.stanford.edu/~hastie/ElemStatLearn} Healy K. 2019. Data
+Visualization: a practical introduction. Princeton University Press.
+
+James G, Witten D, Hastie T, Tibshirani R. 2013. An Introduction to
+Statistical Learning: with Applications in R. 2.ed. Springer.
+\url{http://faculty.marshall.usc.edu/gareth-james/ISL}
+
+Kabacoff RI. 2015. R in Action: Data analysis and graphics with R. 2.ed.
+Manning.
+
+Lander JP. 2017. R for Everyone: Advanced Analytics and Graphics.
+Addison-Wesley Professional.
+
+Matloff N. 2011. The Art of R Programming: A Tour of Statistical
+Software Design. No Starch Press.
+
+Oliveira PF, Guerra S, Mcdonnell, R. 2018. Ciência de dados com R --
+Introdução. IBPAD. \url{https://cdr.ibpad.com.br}
+
+R Core Team. 2020. R: A language and environment for statistical
+computing. R Foundation for Statistical Computing, Vienna, Austria.
+\url{https://www.r-project.org}
+
+Teetor P. 2011. R Cookbook. O'Reilly Media.
+\url{http://www.cookbook-r.com}
+
+Wickham, H., Cetinkaya-Rundel, M., Grolemund, G. 2023. R for Data
+Science: Import, Tidy, Transform, Visualize, and Model Data. O'Reilly
+Media. \url{https://r4ds.hadley.nz}
+
+Wickham H. 2019. Advanced R. 2 ed.~Chapman and Hall/CRC.
+\url{https://adv-r.hadley.nz}
+
+Wickham H. 2020. ggplot2: Elegant Graphics for Data Analysis. 3
+ed.~Springer. \url{https://ggplot2-book.org}
+
+Wilk CO. 2019. Fundamentals of Data Visualization: A Primer on Making
+Informative and Compelling Figures. O'Reilly Media.
+\url{https://serialmentor.com/dataviz}
+
+
+
+
+\end{document}

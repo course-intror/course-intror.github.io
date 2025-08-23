@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Cronograma – introR</title>
+<title>introR: introdução à linguagem R – introR</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -90,11 +90,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about/index.html"> 
+    <a class="nav-link" href="../syllabus/index.html"> 
 <span class="menu-text">Plano de ensino</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../material/index.html" aria-current="page"> 
+    <a class="nav-link" href="../schedule/index.html"> 
 <span class="menu-text">Cronograma</span></a>
   </li>  
   <li class="nav-item">
@@ -104,30 +104,47 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-    <a href="https://github.com/mauriciovancine/course-intror" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
+    <a href="https://github.com/course-intror" title="" class="quarto-navigation-tool px-1" aria-label="" target="_blank"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/orgs/course-intror/discussions" title="" class="quarto-navigation-tool px-1" aria-label="" target="_blank"><i class="bi bi-chat-fill"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#docentes" id="toc-docentes" class="nav-link active" data-scroll-target="#docentes">Docentes</a></li>
+  <li><a href="#carga-horária" id="toc-carga-horária" class="nav-link" data-scroll-target="#carga-horária">Carga horária</a></li>
+  <li><a href="#participantes" id="toc-participantes" class="nav-link" data-scroll-target="#participantes">Participantes</a></li>
+  <li><a href="#datas-e-horários" id="toc-datas-e-horários" class="nav-link" data-scroll-target="#datas-e-horários">Datas e horários</a></li>
+  <li><a href="#repositório-da-disciplina" id="toc-repositório-da-disciplina" class="nav-link" data-scroll-target="#repositório-da-disciplina">Repositório da disciplina</a></li>
+  <li><a href="#resumo" id="toc-resumo" class="nav-link" data-scroll-target="#resumo">Resumo</a></li>
+  <li><a href="#conteúdo" id="toc-conteúdo" class="nav-link" data-scroll-target="#conteúdo">Conteúdo</a></li>
+  <li><a href="#controle-de-versão-com-git-e-github" id="toc-controle-de-versão-com-git-e-github" class="nav-link" data-scroll-target="#controle-de-versão-com-git-e-github">1 Controle de versão com git e GitHub</a></li>
+  <li><a href="#introdução-à-programação-em-r-base-r" id="toc-introdução-à-programação-em-r-base-r" class="nav-link" data-scroll-target="#introdução-à-programação-em-r-base-r">2 introdução à programação em R (Base R)</a></li>
+  <li><a href="#introdução-à-programação-em-r-tidyverse" id="toc-introdução-à-programação-em-r-tidyverse" class="nav-link" data-scroll-target="#introdução-à-programação-em-r-tidyverse">3 Introdução à programação em R (tidyverse)</a></li>
+  <li><a href="#tópicos-avançados-em-programação-no-r" id="toc-tópicos-avançados-em-programação-no-r" class="nav-link" data-scroll-target="#tópicos-avançados-em-programação-no-r">4 tópicos avançados em programação no R</a></li>
+  <li><a href="#referências" id="toc-referências" class="nav-link" data-scroll-target="#referências">Referências</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Outros formatos</h2><ul><li><a href="syllabus.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Cronograma</h1>
-<p class="subtitle lead">Cronograma da disciplina introR: introdução à linguagem R.</p>
+<h1 class="title">introR: introdução à linguagem R</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
@@ -139,117 +156,155 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<table class="caption-top table">
-<colgroup>
-<col style="width: 7%">
-<col style="width: 83%">
-<col style="width: 8%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Dia</th>
-<th>Atividade</th>
-<th style="text-align: center;">Slides</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Dia 01</td>
-<td>Boas-vindas e apresentações</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="even">
-<td>Dia 01</td>
-<td>Aula teórica 1: ciência aberta e controle de versão</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="odd">
-<td>Dia 01</td>
-<td>Aula prática 1: prática com git e repositórios no GitHub</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="even">
-<td>Dia 02</td>
-<td>Aula teórica 2: introdução à programação em R (Base R)</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="odd">
-<td>Dia 02</td>
-<td>Aula teórica 3: introdução à programação em R (tidyverse)</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="even">
-<td>Dia 03</td>
-<td>Aula teórica 4: tópicos avançados em programação no R (controle de fluxo, repetições e funções)</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="odd">
-<td>Dia 03</td>
-<td>Aula prática 2: integração entre R e git/GitHub em trabalho científicos</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="even">
-<td>Dia 04</td>
-<td>Projeto prático: desenvolvimento de uma análise ecológica reprodutível usando R e git/GitHub (em grupos)</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="odd">
-<td>Dia 04</td>
-<td>Projeto prático: apresentação dos projetos práticos</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="even">
-<td>Dia 04</td>
-<td>Discussão: reprodutibilidade e transparência em ciência, desafios e perspectivas no uso de R e git/GitHub para ecologia</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-<tr class="odd">
-<td>Dia 04</td>
-<td>Encerramento da disciplina</td>
-<td style="text-align: center;"><code>r icons::icon_link("file-slides", href = "#")</code></td>
-</tr>
-</tbody>
-</table>
-<style>
-#topBtn {
-  display: none;
-  position: fixed;
-  bottom: 105px; /* um pouco acima do fundo */
-  left: 50%;
-  transform: translateX(-50%);
-  padding: 10px 14px;
-  font-size: 20px;
-  border: none;
-  border-radius: 6px;
-  background-color: #2381df; 
-  color: white;
-  cursor: pointer;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
-  transition: background-color 0.3s;
-}
-#topBtn:hover {
-  background-color: rgba(0, 86, 179, 0.9);
-}
-</style>
-<button id="topBtn" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">
-↑ Topo
-</button>
-<script>
-const btn = document.getElementById("topBtn");
+<section id="docentes" class="level3">
+<h3 class="anchored" data-anchor-id="docentes">Docentes</h3>
+<p>Prof.&nbsp;Dr.&nbsp;Maurício Humberto Vancine</p>
+<p>Prof.&nbsp;Dr.&nbsp;Mario Moura (responsável)</p>
+</section>
+<section id="carga-horária" class="level3">
+<h3 class="anchored" data-anchor-id="carga-horária">Carga horária</h3>
+<p>30 h (2 créditos)</p>
+</section>
+<section id="participantes" class="level3">
+<h3 class="anchored" data-anchor-id="participantes">Participantes</h3>
+<p>10 alunos (+ 5 especiais)</p>
+</section>
+<section id="datas-e-horários" class="level3">
+<h3 class="anchored" data-anchor-id="datas-e-horários">Datas e horários</h3>
+<p>Teórico-prático: 14/10/2025 a 17/10/2025 (9-17h)</p>
+</section>
+<section id="repositório-da-disciplina" class="level3">
+<h3 class="anchored" data-anchor-id="repositório-da-disciplina">Repositório da disciplina</h3>
+<p><a href="https://github.com/course-intror" class="uri">https://github.com/course-intror</a></p>
+</section>
+<section id="resumo" class="level3">
+<h3 class="anchored" data-anchor-id="resumo">Resumo</h3>
+<p>A disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem. Serão abordados os seguintes temas: (1) controle de versão com git e GitHub, (2) introdução à programação em R (Base R), (3) introdução à programação em R (tidyverse), (4) tópicos avançados em programação no R. A carga horária total será de 30 horas, onde nos três dias iniciais serão ministrados 20 horas de aulas teórico-práticas. As 10 horas restantes serão direcionadas à formulação e execução de um projeto com dados reais, como forma de avaliação para compor a nota final da disciplina. Ao final da disciplina, os alunos devem ser capazes de utilizar git/GitHub para trabalho colaborativo em ciência e aplicar fundamentos e técnicas avançadas de programação em R para manejo, análise e visualização de dados ecológicos.</p>
+</section>
+<section id="conteúdo" class="level3">
+<h3 class="anchored" data-anchor-id="conteúdo">Conteúdo</h3>
+</section>
+<section id="controle-de-versão-com-git-e-github" class="level3">
+<h3 class="anchored" data-anchor-id="controle-de-versão-com-git-e-github">1 Controle de versão com git e GitHub</h3>
+<ol type="1">
+<li>Conferindo os computadores</li>
+<li>Controle de versão</li>
+<li>git e GitHub</li>
+<li>Detalhes do GitHub</li>
+<li>Criando um repositório</li>
+<li>Configuração: git config</li>
+<li>Controle de versão na prática</li>
+<li>Iniciando localmente: git init</li>
+<li>Iniciando remotamente: fork e git clone</li>
+<li>Versionamento: git status, git add e git commit</li>
+<li>Ignorando: .gitignore</li>
+<li>Histórico: git log e git show</li>
+<li>Diferença: git diff</li>
+<li>Desfazer: git restore, git revert e git reset</li>
+<li>Ramificações: git branch, git switch e git merge</li>
+<li>Remoto: git remote, git push e git pull</li>
+<li>GitHub: Pull request</li>
+<li>Conflitos</li>
+<li>Interface gráfica do RStudio</li>
+</ol>
+</section>
+<section id="introdução-à-programação-em-r-base-r" class="level3">
+<h3 class="anchored" data-anchor-id="introdução-à-programação-em-r-base-r">2 introdução à programação em R (Base R)</h3>
+<ol type="1">
+<li>Linguagem R</li>
+<li>RStudio</li>
+<li>Console</li>
+<li>Scripts</li>
+<li>Operadores</li>
+<li>Objetos</li>
+<li>Funções</li>
+<li>Pacotes</li>
+<li>Ajuda</li>
+<li>Ambiente</li>
+<li>Citações</li>
+<li>Principais erros</li>
+<li>Atributos dos objetos</li>
+<li>Manipulação de dados unidimensionais</li>
+<li>Manipulação de dados multidimensionais</li>
+<li>Valores faltantes e especiais</li>
+<li>Diretório de trabalho</li>
+<li>Importar dados</li>
+<li>Conferência de dados importados</li>
+<li>Exportar dados</li>
+</ol>
+</section>
+<section id="introdução-à-programação-em-r-tidyverse" class="level3">
+<h3 class="anchored" data-anchor-id="introdução-à-programação-em-r-tidyverse">3 Introdução à programação em R (tidyverse)</h3>
+<ol type="1">
+<li>Contextualização</li>
+<li>tidyverse</li>
+<li>here</li>
+<li>readr, readxl e writexl</li>
+<li>tibble</li>
+<li>magrittr (pipe - %&gt;%)</li>
+<li>tidyr</li>
+<li>dplyr</li>
+<li>stringr</li>
+<li>forcats</li>
+<li>lubridate</li>
+<li>purrr</li>
+<li>Pacotes para produção de gráficos</li>
+<li>Gramática dos gráficos</li>
+<li>Principal material de estudo</li>
+<li>Principais tipos de gráficos</li>
+<li>Histograma e Densidade</li>
+<li>Gráfico de setores</li>
+<li>Gráfico de barras</li>
+<li>Gráfico de caixas</li>
+<li>Gráfico de dispersão</li>
+<li>Gráfico pareado</li>
+<li>Combinando gráficos</li>
+<li>Gráficos animados</li>
+<li>Gráficos interativos</li>
+<li>Gráficos usando interface</li>
+</ol>
+</section>
+<section id="tópicos-avançados-em-programação-no-r" class="level3">
+<h3 class="anchored" data-anchor-id="tópicos-avançados-em-programação-no-r">4 tópicos avançados em programação no R</h3>
+<ol type="1">
+<li>Tabelas de frequência</li>
+<li>Frequência absoluta e relativa</li>
+<li>Função: table</li>
+<li>Medidas de posição e dispersão</li>
+<li>Funções: apply, lapply, sapply, tapply</li>
+<li>Controle de fluxo</li>
+<li>Condicional: if, else e else if</li>
+<li>Estruturas de repetição</li>
+<li>Laços: for, while e repeat</li>
+<li>Comandos: break e next</li>
+<li>Funções</li>
+<li>Funções externas: source</li>
+</ol>
+</section>
+<section id="referências" class="level3">
+<h3 class="anchored" data-anchor-id="referências">Referências</h3>
+<p>Chang W. 2013. R Graphics Cookbook: Practical Recipes for Visualizing Data. 2 ed.&nbsp;O’Reilly Media. <a href="https://r-graphics.org" class="uri">https://r-graphics.org</a></p>
+<p>Chacon S., Straub B. 2014. Pro Git. 2 ed.&nbsp;Apress. <a href="https://git-scm.com/book/en/v2" class="uri">https://git-scm.com/book/en/v2</a></p>
+<p>Cotton R. 2013. Learning R: A Step-by-Step Function Guide to Data Analysis. O’Reilly Media.</p>
+<p>Davies TM. 2016. The Book of R: A First Course in Programming and Statistics. No Starch Press.</p>
+<p>Damiani A, Milz B, Lente C, Falbel D, Correa F, Trecenti J, Luduvice N, Lacerda T, Amorim W. 2025. Ciência de Dados em R. <a href="https://livro.curso-r.com/">https://livro.curso-r.com</a></p>
+<p>Da Silva FR, Gonçalves-Souza T, Paterno GB, Provete DB, Vancine MH. 2022. Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6. <a href="https://analises-ecologicas.com" class="uri">https://analises-ecologicas.com</a></p>
+<p>Engel C. 2019. Introduction to R. <a href="https://cengel.github.io/R-intro" class="uri">https://cengel.github.io/R-intro</a></p>
+<p>Hastle T, Tibshirani R, Friedman J. 2016. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. 2 ed.&nbsp;Springer. <a href="https://web.stanford.edu/~hastie/ElemStatLearn" class="uri">https://web.stanford.edu/~hastie/ElemStatLearn</a> Healy K. 2019. Data Visualization: a practical introduction. Princeton University Press.</p>
+<p>James G, Witten D, Hastie T, Tibshirani R. 2013. An Introduction to Statistical Learning: with Applications in R. 2.ed. Springer. <a href="http://faculty.marshall.usc.edu/gareth-james/ISL" class="uri">http://faculty.marshall.usc.edu/gareth-james/ISL</a></p>
+<p>Kabacoff RI. 2015. R in Action: Data analysis and graphics with R. 2.ed. Manning.</p>
+<p>Lander JP. 2017. R for Everyone: Advanced Analytics and Graphics. Addison-Wesley Professional.</p>
+<p>Matloff N. 2011. The Art of R Programming: A Tour of Statistical Software Design. No Starch Press.</p>
+<p>Oliveira PF, Guerra S, Mcdonnell, R. 2018. Ciência de dados com R – Introdução. IBPAD. <a href="https://cdr.ibpad.com.br" class="uri">https://cdr.ibpad.com.br</a></p>
+<p>R Core Team. 2020. R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. <a href="https://www.r-project.org" class="uri">https://www.r-project.org</a></p>
+<p>Teetor P. 2011. R Cookbook. O’Reilly Media. <a href="http://www.cookbook-r.com" class="uri">http://www.cookbook-r.com</a></p>
+<p>Wickham, H., Cetinkaya-Rundel, M., Grolemund, G. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media. <a href="https://r4ds.hadley.nz" class="uri">https://r4ds.hadley.nz</a></p>
+<p>Wickham H. 2019. Advanced R. 2 ed.&nbsp;Chapman and Hall/CRC. <a href="https://adv-r.hadley.nz" class="uri">https://adv-r.hadley.nz</a></p>
+<p>Wickham H. 2020. ggplot2: Elegant Graphics for Data Analysis. 3 ed.&nbsp;Springer. <a href="https://ggplot2-book.org" class="uri">https://ggplot2-book.org</a></p>
+<p>Wilk CO. 2019. Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures. O’Reilly Media. <a href="https://serialmentor.com/dataviz" class="uri">https://serialmentor.com/dataviz</a></p>
 
-window.addEventListener("scroll", () => {
-  const scrollBottom = window.innerHeight + window.scrollY;
-  const docHeight = document.documentElement.scrollHeight;
 
-  if (scrollBottom >= docHeight - 200) { // aparece um pouco antes do final
-    btn.style.display = "block";
-  } else {
-    btn.style.display = "none";
-  }
-});
-</script>
-
-
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
