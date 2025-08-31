@@ -23,6 +23,9 @@ website:
       - text: Cronograma
         aria-label: "Cronograma"
         href: schedule/index.qmd  
+      - text: Leituras
+        aria-label: "Leituras"
+        href: reading/index.qmd
       - text: Tarefas
         aria-label: "Tarefas"
         href: task/index.qmd

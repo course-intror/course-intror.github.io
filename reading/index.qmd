@@ -1,0 +1,132 @@
+---
+title: "Leituras"
+subtitle: "Leituras da disciplina introR: introdução à linguagem R."
+page-layout: full
+title-block-banner: false
+toc: true
+editor: source
+---
+
+## Aula teórica 1: controle de versão
+
+Braga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). [Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution](https://doi.org/10.1111/2041-210X.14108). Methods in Ecology and Evolution, 14(6), 1364–1380. 
+
+Perez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). [Ten Simple Rules for Taking Advantage of Git and GitHub](https://doi.org/10.1371/journal.pcbi.1004947). PLOS Computational Biology, 12(7), e1004947. 
+
+Kim, A. Y., Herrmann, V., Barreto, R., Calkins, B., Gonzalez-Akre, E., Johnson, D. J., Jordan, J. A., Magee, L., McGregor, I. R., Montero, N., Novak, K., Rogers, T., Shue, J., & Anderson-Teixeira, K. J. (2022). [Implementing GitHub Actions continuous integration to reduce error rates in ecological data collection](https://doi.org/10.1111/2041-210X.13982). Methods in Ecology and Evolution, 13(11), 2572–2585. 
+
+Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’Hara, C. C., Jiang, N., & Halpern, B. S. (2017). [Our path to better science in less time using open data science tools](https://doi.org/10.1038/s41559-017-0160). Nature Ecology & Evolution, 1(6), 0160.
+
+## Aula teórica 2: introdução à programação em R (Base R)
+
+Da Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). [Análises Ecológicas no R](https://analises-ecologicas.com/). Recife: Nupeea. Bauru, SP: Canal 6.
+
+Grolemund, G. (2014). [Hands-on programming with R](https://rstudio-education.github.io/hopr). O’Reilly.
+
+Matloff, N. S. (2011). The art of R programming: Tour of statistical software design. No Starch Press.
+
+## Aula teórica 3: introdução à programação em R (tidyverse)
+
+Da Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). [Análises Ecológicas no R](https://analises-ecologicas.com/). Recife: Nupeea. Bauru, SP: Canal 6.
+
+Damiani A, Milz B, Lente C, Falbel D, Correa F, Trecenti J, Luduvice N, Lacerda T, Amorim W. 2025. [Ciência de Dados em R](https://livro.curso-r.com).
+
+Oliveira PF, Guerra S, Mcdonnell, R. 2018. [Ciência de dados com R – Introdução](https://cdr.ibpad.com.br). IBPAD.
+
+Wickham, H., Cetinkaya-Rundel, M., Grolemund, G. 2023. [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.hadley.nz). O'Reilly Media.
+
+Wickham H. 2020. [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org). 3 ed. Springer.
+
+## Aula teórica 4: tópicos avançados em programação no R
+
+Gagolewski, M. (2024). [Deep R Programming](https://deepr.gagolewski.com/index.html). Marek Gagolewski.
+
+Jones, E., Harden, S., & Crawley, M. J. (2022). The R book. 3 ed. Wiley.
+
+Wickham, H., & Bryan J. (2015). [R packages](https://r-pkgs.org). 2 ed. O’Reilly Media.
+
+Wickham, H. (2019). [Advanced R](https://adv-r.hadley.nz). 2 ed. Chapman and Hall/CRC.
+
+## Aula teórica 5: reprodutibilidade em R e GitHub
+
+Blischak, J. D., Carbonetto, P., & Stephens, M. (2019). [Creating and sharing reproducible research code the workflowr way](https://doi.org/10.12688/f1000research.20843.1). F1000Research.
+
+Buckley, Y. M., Bardgett, R., Gordon, R., Iler, A., Mariotte, P., Ponton, S., & Hector, A. (2025). [Using dynamic documents to mend cracks in the reproducible research pipeline](https://doi.org/10.1111/1365-2745.14454). Journal of Ecology, 113(2), 270–274.
+
+Chen, K. Y., Toro-Moreno, M., & Subramaniam, A. R. (2025). GitHub is an effective platform for collaborative and reproducible laboratory research. ArXiv, arXiv:2408.09344v2.
+Kamvar, Z. N., López-Uribe, M. M., Coughlan, S., Grünwald, N. J., Lapp, H., & Manel, S. (2017). [Developing educational resources for population genetics in R: An open and collaborative approach](https://doi.org/10.1111/1755-0998.12558). Molecular Ecology Resources, 17(1), 120–128. 
+
+Peikert, A., & Brandmaier, A. M. (2021). [A Reproducible Data Analysis Workflow With R Markdown, Git, Make, and Docker](https://doi.org/10.5964/qcmb.3763). Quantitative and Computational Methods in Behavioral Sciences, 1–27.
+
+Peikert, A., van Lissa, C. J., & Brandmaier, A. M. (2021). [Reproducible Research in R: A Tutorial on How to Do the Same Thing More Than Once](https://doi.org/10.3390/psych3040053). Psych, 3(4), 836–867.
+
+Weberpals, J., & Wang, S. V. (2024). [The FAIRification of research in real-world evidence: A practical introduction to reproducible analytic workflows using Git and R](https://doi.org/10.1002/pds.5740). Pharmacoepidemiology and Drug Safety, 33(1), e5740.
+
+## Discussão: desafios da reprodutibilidade na ciência 
+
+Alston, J. M., & Rick, J. A. (2021). [A Beginner's Guide to Conducting Reproducible Research](https://nhm.openrepository.com/handle/10141/622618). Bulletin of the Ecological Society of America, 102(2), 1–14.
+
+BES, & Cooper, N. (2017). [A Guide to Reproducible Code in Ecology and Evolution](https://nhm.openrepository.com/handle/10141/622618).
+
+Borregaard, M. K., & Hart, E. M. (2016). [Towards a more reproducible ecology](https://doi.org/10.1111/ecog.02493). Ecography, 39(4), 349–353. 
+
+Casadevall, A., & Fang, F. C. (2010). [Reproducible Science](https://doi.org/10.1128/IAI.00908-10). Infection and Immunity, 78(12), 4972–4975. 
+
+Cassey, P., & Blackburn, T. M. (2006). [Reproducibility and Repeatability in Ecology](https://doi.org/10.1641/0006-3568(2006)56[958:RARIE]2.0.CO;2). BioScience, 56(12), 958–959. 
+
+Fidler, F., Chee, Y. E., Wintle, B. C., Burgman, M. A., McCarthy, M. A., & Gordon, A. (2017). [Metaresearch for Evaluating Reproducibility in Ecology and Evolution](https://doi.org/10.1093/biosci/biw159). BioScience, biw159. 
+
+Goodman, S. N., Fanelli, D., & Ioannidis, J. P. A. (2016). [What does research reproducibility mean?](https://doi.org/10.1126/scitranslmed.aaf5027) Science Translational Medicine, 8(341), 341ps12-341ps12. 
+
+Hurley, A. G., Peters, R. L., Pappas, C., Steger, D. N., & Heinrich, I. (2022). [Addressing the need for interactive, efficient, and reproducible data processing in ecology with the datacleanr R package](https://doi.org/10.1371/journal.pone.0268426). PLOS ONE, 17(5), e0268426.
+
+Jenkins, G. B., Beckerman, A. P., Bellard, C., Benítez‐López, A., Ellison, A. M., Foote, C. G., Hufton, A. L., Lashley, M. A., Lortie, C. J., Ma, Z., Moore, A. J., Narum, S. R., Nilsson, J., O’Boyle, B., Provete, D. B., Razgour, O., Rieseberg, L., Riginos, C., Santini, L., … Peres‐Neto, P. R. (2023). [Reproducibility in ecology and evolution: Minimum standards for data and code](https://doi.org/10.1002/ece3.9961). Ecology and Evolution, 13(5), e9961. 
+
+Munafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (2017). [A manifesto for reproducible science](https://doi.org/10.1038/s41562-016-0021). Nature Human Behaviour, 1(1), Article 1. 
+
+Peng, R. D. (2011). [Reproducible Research in Computational Science](https://doi.org/10.1126/science.1213847). Science, 334(6060), 1226–1227. 
+
+Sánchez-Tójar, A., Bezine, A., Purgar, M., & Culina, A. (2025). [Code-sharing policies are associated with increased reproducibility potential of ecological findings](https://doi.org/10.24072/pcjournal.541). Peer Community Journal, 5. 
+
+Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., Da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18). Scientific Data, 3(1), 160018. 
+
+Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510). PLOS Computational Biology, 13(6), e1005510.
+
+<style>
+#topBtn {
+  display: none;
+  position: fixed;
+  bottom: 105px; /* um pouco acima do fundo */
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 14px;
+  font-size: 20px;
+  border: none;
+  border-radius: 6px;
+  background-color: #2381df; 
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  transition: background-color 0.3s;
+}
+#topBtn:hover {
+  background-color: rgba(0, 86, 179, 0.9);
+}
+</style>
+
+<button id="topBtn" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">↑ Topo</button>
+
+<script>
+const btn = document.getElementById("topBtn");
+
+window.addEventListener("scroll", () => {
+  const scrollBottom = window.innerHeight + window.scrollY;
+  const docHeight = document.documentElement.scrollHeight;
+
+  if (scrollBottom >= docHeight - 200) { // aparece um pouco antes do final
+    btn.style.display = "block";
+  } else {
+    btn.style.display = "none";
+  }
+});
+</script>

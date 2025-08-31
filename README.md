@@ -1,3 +1,3 @@
 # introR: introdução à linguagem R
 
-## Disciplina de pós-graduação de introdução à programação usando a linguagem R com foco em dados ecológicos.
+A disciplina introR apresenta os principais conceitos de controle de versão atrvés do git e GitHub e da linguagem R para a manipulação e visualização de dados através do Base R e tidyverse.

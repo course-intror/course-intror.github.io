@@ -23,7 +23,7 @@ editor: source
 
 ::: {#hero-heading}
 
-A disciplina introR apresenta os principais conceitos da linguagem R e do IDE RStudio para a manipulação e visualização de dados através do Base R e tidyverse.
+A disciplina introR apresenta os principais conceitos de controle de versão atrvés do git e GitHub e da linguagem R para a manipulação e visualização de dados através do Base R e tidyverse.
 
 [Saiba mais &rarr;](/syllabus){.about-links .subtitle}
 

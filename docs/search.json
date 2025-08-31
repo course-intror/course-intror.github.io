@@ -1,10 +1,52 @@
 [
   {
-    "objectID": "syllabus/index.html",
-    "href": "syllabus/index.html",
-    "title": "Plano de ensino",
+    "objectID": "reading/index.html",
+    "href": "reading/index.html",
+    "title": "Leituras",
     "section": "",
-    "text": "Olá! Bem-vindos!\nEsta é a webpage da disciplina introR: introdução à linguagem R.\nAcesse o PDF do plano de ensino completo.\nAcesse as outras páginas para cronograma, tarefas e projetos.\nDúvidas, entre em contato enviando uma mensagem.\n\n\nEmenta\nA disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem.\n\n\nObjetivos dos curso\n\nApresentar os conceitos e aplicações do controle de versão com git/GitHub, destacando sua importância para o trabalho colaborativo em ciência.\nExplorar aspectos teóricos e práticos do uso do software git e de repositórios remotos no GitHub.\nIntroduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyverse.\nDesenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.\nAbordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes.\n\n\n\nBibliografia principal\n\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.\nPerez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology, 12(7), e1004947.\nBraga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364–1380.\nWickham, H., Cetinkaya-Rundel, M., & Grolemund, G. (2023). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.\nWickham, H. (2019). Advanced R. Chapman and Hall/CRC.\n\n\n\n↑ Topo"
+    "text": "Braga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364–1380.\nPerez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology, 12(7), e1004947.\nKim, A. Y., Herrmann, V., Barreto, R., Calkins, B., Gonzalez-Akre, E., Johnson, D. J., Jordan, J. A., Magee, L., McGregor, I. R., Montero, N., Novak, K., Rogers, T., Shue, J., & Anderson-Teixeira, K. J. (2022). Implementing GitHub Actions continuous integration to reduce error rates in ecological data collection. Methods in Ecology and Evolution, 13(11), 2572–2585.\nLowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’Hara, C. C., Jiang, N., & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature Ecology & Evolution, 1(6), 0160."
+  },
+  {
+    "objectID": "reading/index.html#aula-teórica-1-controle-de-versão",
+    "href": "reading/index.html#aula-teórica-1-controle-de-versão",
+    "title": "Leituras",
+    "section": "",
+    "text": "Braga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364–1380.\nPerez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology, 12(7), e1004947.\nKim, A. Y., Herrmann, V., Barreto, R., Calkins, B., Gonzalez-Akre, E., Johnson, D. J., Jordan, J. A., Magee, L., McGregor, I. R., Montero, N., Novak, K., Rogers, T., Shue, J., & Anderson-Teixeira, K. J. (2022). Implementing GitHub Actions continuous integration to reduce error rates in ecological data collection. Methods in Ecology and Evolution, 13(11), 2572–2585.\nLowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’Hara, C. C., Jiang, N., & Halpern, B. S. (2017). Our path to better science in less time using open data science tools. Nature Ecology & Evolution, 1(6), 0160."
+  },
+  {
+    "objectID": "reading/index.html#aula-teórica-2-introdução-à-programação-em-r-base-r",
+    "href": "reading/index.html#aula-teórica-2-introdução-à-programação-em-r-base-r",
+    "title": "Leituras",
+    "section": "Aula teórica 2: introdução à programação em R (Base R)",
+    "text": "Aula teórica 2: introdução à programação em R (Base R)\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.\nGrolemund, G. (2014). Hands-on programming with R. O’Reilly.\nMatloff, N. S. (2011). The art of R programming: Tour of statistical software design. No Starch Press."
+  },
+  {
+    "objectID": "reading/index.html#aula-teórica-3-introdução-à-programação-em-r-tidyverse",
+    "href": "reading/index.html#aula-teórica-3-introdução-à-programação-em-r-tidyverse",
+    "title": "Leituras",
+    "section": "Aula teórica 3: introdução à programação em R (tidyverse)",
+    "text": "Aula teórica 3: introdução à programação em R (tidyverse)\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.\nDamiani A, Milz B, Lente C, Falbel D, Correa F, Trecenti J, Luduvice N, Lacerda T, Amorim W. 2025. Ciência de Dados em R.\nOliveira PF, Guerra S, Mcdonnell, R. 2018. Ciência de dados com R – Introdução. IBPAD.\nWickham, H., Cetinkaya-Rundel, M., Grolemund, G. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.\nWickham H. 2020. ggplot2: Elegant Graphics for Data Analysis. 3 ed. Springer."
+  },
+  {
+    "objectID": "reading/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
+    "href": "reading/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
+    "title": "Leituras",
+    "section": "Aula teórica 4: tópicos avançados em programação no R",
+    "text": "Aula teórica 4: tópicos avançados em programação no R\nGagolewski, M. (2024). Deep R Programming. Marek Gagolewski.\nJones, E., Harden, S., & Crawley, M. J. (2022). The R book. 3 ed. Wiley.\nWickham, H., & Bryan J. (2015). R packages. 2 ed. O’Reilly Media.\nWickham, H. (2019). Advanced R. 2 ed. Chapman and Hall/CRC."
+  },
+  {
+    "objectID": "reading/index.html#aula-teórica-5-reprodutibilidade-em-r-e-github",
+    "href": "reading/index.html#aula-teórica-5-reprodutibilidade-em-r-e-github",
+    "title": "Leituras",
+    "section": "Aula teórica 5: reprodutibilidade em R e GitHub",
+    "text": "Aula teórica 5: reprodutibilidade em R e GitHub\nBlischak, J. D., Carbonetto, P., & Stephens, M. (2019). Creating and sharing reproducible research code the workflowr way. F1000Research.\nBuckley, Y. M., Bardgett, R., Gordon, R., Iler, A., Mariotte, P., Ponton, S., & Hector, A. (2025). Using dynamic documents to mend cracks in the reproducible research pipeline. Journal of Ecology, 113(2), 270–274.\nChen, K. Y., Toro-Moreno, M., & Subramaniam, A. R. (2025). GitHub is an effective platform for collaborative and reproducible laboratory research. ArXiv, arXiv:2408.09344v2. Kamvar, Z. N., López-Uribe, M. M., Coughlan, S., Grünwald, N. J., Lapp, H., & Manel, S. (2017). Developing educational resources for population genetics in R: An open and collaborative approach. Molecular Ecology Resources, 17(1), 120–128.\nPeikert, A., & Brandmaier, A. M. (2021). A Reproducible Data Analysis Workflow With R Markdown, Git, Make, and Docker. Quantitative and Computational Methods in Behavioral Sciences, 1–27.\nPeikert, A., van Lissa, C. J., & Brandmaier, A. M. (2021). Reproducible Research in R: A Tutorial on How to Do the Same Thing More Than Once. Psych, 3(4), 836–867.\nWeberpals, J., & Wang, S. V. (2024). The FAIRification of research in real-world evidence: A practical introduction to reproducible analytic workflows using Git and R. Pharmacoepidemiology and Drug Safety, 33(1), e5740."
+  },
+  {
+    "objectID": "reading/index.html#discussão-desafios-da-reprodutibilidade-na-ciência",
+    "href": "reading/index.html#discussão-desafios-da-reprodutibilidade-na-ciência",
+    "title": "Leituras",
+    "section": "Discussão: desafios da reprodutibilidade na ciência",
+    "text": "Discussão: desafios da reprodutibilidade na ciência\nAlston, J. M., & Rick, J. A. (2021). A Beginner’s Guide to Conducting Reproducible Research. Bulletin of the Ecological Society of America, 102(2), 1–14.\nBES, & Cooper, N. (2017). A Guide to Reproducible Code in Ecology and Evolution.\nBorregaard, M. K., & Hart, E. M. (2016). Towards a more reproducible ecology. Ecography, 39(4), 349–353.\nCasadevall, A., & Fang, F. C. (2010). Reproducible Science. Infection and Immunity, 78(12), 4972–4975.\nCassey, P., & Blackburn, T. M. (2006). Reproducibility and Repeatability in Ecology. BioScience, 56(12), 958–959.\nFidler, F., Chee, Y. E., Wintle, B. C., Burgman, M. A., McCarthy, M. A., & Gordon, A. (2017). Metaresearch for Evaluating Reproducibility in Ecology and Evolution. BioScience, biw159.\nGoodman, S. N., Fanelli, D., & Ioannidis, J. P. A. (2016). What does research reproducibility mean? Science Translational Medicine, 8(341), 341ps12-341ps12.\nHurley, A. G., Peters, R. L., Pappas, C., Steger, D. N., & Heinrich, I. (2022). Addressing the need for interactive, efficient, and reproducible data processing in ecology with the datacleanr R package. PLOS ONE, 17(5), e0268426.\nJenkins, G. B., Beckerman, A. P., Bellard, C., Benítez‐López, A., Ellison, A. M., Foote, C. G., Hufton, A. L., Lashley, M. A., Lortie, C. J., Ma, Z., Moore, A. J., Narum, S. R., Nilsson, J., O’Boyle, B., Provete, D. B., Razgour, O., Rieseberg, L., Riginos, C., Santini, L., … Peres‐Neto, P. R. (2023). Reproducibility in ecology and evolution: Minimum standards for data and code. Ecology and Evolution, 13(5), e9961.\nMunafò, M. R., Nosek, B. A., Bishop, D. V. M., Button, K. S., Chambers, C. D., Percie du Sert, N., Simonsohn, U., Wagenmakers, E.-J., Ware, J. J., & Ioannidis, J. P. A. (2017). A manifesto for reproducible science. Nature Human Behaviour, 1(1), Article 1.\nPeng, R. D. (2011). Reproducible Research in Computational Science. Science, 334(6060), 1226–1227.\nSánchez-Tójar, A., Bezine, A., Purgar, M., & Culina, A. (2025). Code-sharing policies are associated with increased reproducibility potential of ecological findings. Peer Community Journal, 5.\nWilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., Da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1), 160018.\nWilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLOS Computational Biology, 13(6), e1005510.\n\n\n↑ Topo"
   },
   {
     "objectID": "contributors.html",
@@ -53,14 +95,14 @@
     "href": "index.html",
     "title": "introR: introdução à linguagem R",
     "section": "",
-    "text": "A disciplina introR apresenta os principais conceitos da linguagem R e do IDE RStudio para a manipulação e visualização de dados através do Base R e tidyverse.\nSaiba mais →"
+    "text": "A disciplina introR apresenta os principais conceitos de controle de versão atrvés do git e GitHub e da linguagem R para a manipulação e visualização de dados através do Base R e tidyverse.\nSaiba mais →"
   },
   {
     "objectID": "schedule/index.html",
     "href": "schedule/index.html",
     "title": "Cronograma",
     "section": "",
-    "text": "Dia\nAtividade\nLeituras\nSlides\nScripts\nTarefas\n\n\n\n\nDia 01\nBoas-vindas e apresentações\n\n\n\n\n\n\nDia 01\nAula teórica 1: ciência aberta e controle de versão\n\n\n\n\n\n\nDia 01\nAula prática 1: prática com git e repositórios no GitHub\n\n\n\n\n\n\nDia 02\nAula teórica 2: introdução à programação em R (Base R)\n\n\n\n\n\n\nDia 02\nAula teórica 3: introdução à programação em R (tidyverse)\n\n\n\n\n\n\nDia 03\nAula teórica 4: tópicos avançados em programação no R (controle de fluxo, repetições e funções)\n\n\n\n\n\n\nDia 03\nAula prática 2: integração entre R e git/GitHub em trabalho científicos\n\n\n\n\n\n\nDia 04\nProjeto prático: desenvolvimento de uma análise ecológica reprodutível usando R e git/GitHub\n\n\n\n\n\n\nDia 04\nProjeto prático: apresentação dos projetos\n\n\n\n\n\n\nDia 04\nDiscussão: reprodutibilidade na ciência e desafios no uso de R e git/GitHub para ecologia\n\n\n\n\n\n\nDia 04\nEncerramento da disciplina"
+    "text": "Dia\nAtividade\nLeituras\nSlides\nScripts\nTarefas\n\n\n\n\nDia 01\nBoas-vindas e apresentações\n\n\n\n\n\n\nDia 01\nAula teórica 1: controle de versão\n\n\n\n\n\n\nDia 01\nAula prática 1: controle de versão\n\n\n\n\n\n\nDia 02\nAula teórica 2: introdução à programação em R (Base R)\n\n\n\n\n\n\nDia 02\nAula teórica 3: introdução à programação em R (tidyverse)\n\n\n\n\n\n\nDia 03\nAula teórica 4: tópicos avançados em programação no R\n\n\n\n\n\n\nDia 03\nAula teórica 5: reprodutibilidade em R e GitHub\n\n\n\n\n\n\nDia 03\nAula prática 2: reprodutibilidade em R e GitHub\n\n\n\n\n\n\nDia 04\nProjeto prático: desenvolvimento de uma análise ecológica reprodutível\n\n\n\n\n\n\nDia 04\nProjeto prático: apresentação dos projetos\n\n\n\n\n\n\nDia 04\nDiscussão: ciência aberta e reprodutibilidade\n\n\n\n\n\n\nDia 04\nEncerramento"
   },
   {
     "objectID": "project/index.html",
@@ -77,10 +119,38 @@
     "text": "Este formulário é para entrar em contato sobre dúvidas relacionadas à disciplina introR: introdução à linguagem R.\n\n\n\n\n\n\n\nNome \nEmail \nMessagem\n\n\nEnviar"
   },
   {
-    "objectID": "task/index.html",
-    "href": "task/index.html",
+    "objectID": "task/index.html#aula-teórica-2-introdução-à-programação-em-r-base-r",
+    "href": "task/index.html#aula-teórica-2-introdução-à-programação-em-r-base-r",
     "title": "Tarefas",
+    "section": "Aula teórica 2: introdução à programação em R (Base R)",
+    "text": "Aula teórica 2: introdução à programação em R (Base R)"
+  },
+  {
+    "objectID": "task/index.html#aula-teórica-3-introdução-à-programação-em-r-tidyverse",
+    "href": "task/index.html#aula-teórica-3-introdução-à-programação-em-r-tidyverse",
+    "title": "Tarefas",
+    "section": "Aula teórica 3: introdução à programação em R (tidyverse)",
+    "text": "Aula teórica 3: introdução à programação em R (tidyverse)"
+  },
+  {
+    "objectID": "task/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
+    "href": "task/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
+    "title": "Tarefas",
+    "section": "Aula teórica 4: tópicos avançados em programação no R",
+    "text": "Aula teórica 4: tópicos avançados em programação no R"
+  },
+  {
+    "objectID": "task/index.html#aula-prática-5-reprodutibilidade-em-r-e-github",
+    "href": "task/index.html#aula-prática-5-reprodutibilidade-em-r-e-github",
+    "title": "Tarefas",
+    "section": "Aula prática 5: reprodutibilidade em R e GitHub",
+    "text": "Aula prática 5: reprodutibilidade em R e GitHub\n\n\n↑ Topo"
+  },
+  {
+    "objectID": "syllabus/index.html",
+    "href": "syllabus/index.html",
+    "title": "Plano de ensino",
     "section": "",
-    "text": "↑ Topo"
+    "text": "Olá! Bem-vindos!\nEsta é a webpage da disciplina introR: introdução à linguagem R.\nAcesse o PDF do plano de ensino completo.\nAcesse as outras páginas para cronograma, tarefas e projetos.\nDúvidas, entre em contato enviando uma mensagem.\n\n\nEmenta\nA disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem.\n\n\nObjetivos dos curso\n\nApresentar os conceitos e aplicações do controle de versão com git/GitHub, destacando sua importância para o trabalho colaborativo em ciência.\nExplorar aspectos teóricos e práticos do uso do software git e de repositórios remotos no GitHub.\nIntroduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyverse.\nDesenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.\nAbordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes.\n\n\n\nBibliografia principal\n\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.\nPerez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology, 12(7), e1004947.\nBraga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364–1380.\nWickham, H., Cetinkaya-Rundel, M., & Grolemund, G. (2023). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.\nWickham, H. (2019). Advanced R. Chapman and Hall/CRC.\n\n\n\n↑ Topo"
   }
 ]

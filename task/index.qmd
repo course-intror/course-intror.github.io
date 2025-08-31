@@ -7,6 +7,26 @@ toc: true
 editor: source
 ---
 
+## Aula prática 1: controle de versão
+
+
+
+## Aula teórica 2: introdução à programação em R (Base R)
+
+
+
+## Aula teórica 3: introdução à programação em R (tidyverse)
+
+
+
+## Aula teórica 4: tópicos avançados em programação no R
+
+
+
+## Aula prática 5: reprodutibilidade em R e GitHub
+
+
+
 <style>
 #topBtn {
   display: none;

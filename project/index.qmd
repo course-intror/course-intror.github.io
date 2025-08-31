@@ -1,11 +1,13 @@
 ---
 title: "Projetos"
-subtitle: "Projetos da disciplina introR: introdução à linguagem R."
+subtitle: "Informações sobre os projetos da disciplina introR: introdução à linguagem R."
 page-layout: full
 title-block-banner: false
 toc: true
 editor: source
 ---
+
+
 
 <style>
 #topBtn {
