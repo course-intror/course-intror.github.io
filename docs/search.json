@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "introR: introdução à linguagem R",
     "section": "",
-    "text": "A disciplina introR apresenta os principais conceitos de controle de versão atrvés do git e GitHub e da linguagem R para a manipulação e visualização de dados através do Base R e tidyverse.\nSaiba mais →"
+    "text": "A disciplina introR apresenta os principais conceitos de controle de versão através do git e GitHub e da linguagem R para o manejo e visualização de dados através do Base R e tidyverse.\nSaiba mais →"
   },
   {
     "objectID": "schedule/index.html",
@@ -119,38 +119,52 @@
     "text": "Este formulário é para entrar em contato sobre dúvidas relacionadas à disciplina introR: introdução à linguagem R.\n\n\n\n\n\n\n\nNome \nEmail \nMessagem\n\n\nEnviar"
   },
   {
+    "objectID": "task/index.html",
+    "href": "task/index.html",
+    "title": "Tarefas",
+    "section": "",
+    "text": "Leitura extra: GitHub para desentendidos.\nLeitura extra: Como usar o Git e Github na prática.\nLeitura extra: Utilizando o Git e GitHub no RStudio.\nExercícios extras: git - guia prático.\nExercícios extras: Learn Git Branching.\nExercícios extras: Learn & practice Git."
+  },
+  {
+    "objectID": "task/index.html#aula-prática-1-controle-de-versão",
+    "href": "task/index.html#aula-prática-1-controle-de-versão",
+    "title": "Tarefas",
+    "section": "",
+    "text": "Leitura extra: GitHub para desentendidos.\nLeitura extra: Como usar o Git e Github na prática.\nLeitura extra: Utilizando o Git e GitHub no RStudio.\nExercícios extras: git - guia prático.\nExercícios extras: Learn Git Branching.\nExercícios extras: Learn & practice Git."
+  },
+  {
     "objectID": "task/index.html#aula-teórica-2-introdução-à-programação-em-r-base-r",
     "href": "task/index.html#aula-teórica-2-introdução-à-programação-em-r-base-r",
     "title": "Tarefas",
     "section": "Aula teórica 2: introdução à programação em R (Base R)",
-    "text": "Aula teórica 2: introdução à programação em R (Base R)"
+    "text": "Aula teórica 2: introdução à programação em R (Base R)\n\nLeitura extra: Capítulo 4 - Análises Ecológicas no R.\nLeitura extra: Introdução ao R - Bookdown.\nLeitura extra: Introdução ao R - Bookdown.\nLeitura extra: Introdução ao uso do programa R - Victor Lemes Landeiro.\nExercícios extras: capítulo 4 - Análises Ecológicas no R.\nExercícios extras: R para Ciência de Dados I.\nExercícios extras: Lista de Exercícios - RPubs.\nExercícios extras: Introdução ao R."
   },
   {
     "objectID": "task/index.html#aula-teórica-3-introdução-à-programação-em-r-tidyverse",
     "href": "task/index.html#aula-teórica-3-introdução-à-programação-em-r-tidyverse",
     "title": "Tarefas",
     "section": "Aula teórica 3: introdução à programação em R (tidyverse)",
-    "text": "Aula teórica 3: introdução à programação em R (tidyverse)"
+    "text": "Aula teórica 3: introdução à programação em R (tidyverse)\n\nLeitura extra: Capítulo 5 - Análises Ecológicas no R.\nLeitura extra: Aprenda a utilizar o tidyverse.\nLeitura extra: Introdução à Análise de Dados em R utilizando Tidyverse.\nExercícios extras: capítulo 5 - Análises Ecológicas no R.\nExercícios extras: Introdução ao Tidyverse.\nExercícios extras: Fundamentos do Tidyverse em R."
   },
   {
     "objectID": "task/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
     "href": "task/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
     "title": "Tarefas",
     "section": "Aula teórica 4: tópicos avançados em programação no R",
-    "text": "Aula teórica 4: tópicos avançados em programação no R"
+    "text": "Aula teórica 4: tópicos avançados em programação no R\n\nLeitura extra: Capítulo 3 - Ciência de Dados em R.\nLeitura extra: Fluxo de Controle e Laços.\nLeitura extra: Capítulo 5 - Advanced R.\nLeitura extra: Capítulo 9 - Advanced R.\nLeitura extra: Estruturas de Controle de Fluxo.\nExercícios extras: Controle de Fluxo e Laços.\nExercícios extras: Controle de Fluxo.\nExercícios extras: Laços Avançados.\nExercícios extras: Estruturas de Repetição."
   },
   {
     "objectID": "task/index.html#aula-prática-5-reprodutibilidade-em-r-e-github",
     "href": "task/index.html#aula-prática-5-reprodutibilidade-em-r-e-github",
     "title": "Tarefas",
     "section": "Aula prática 5: reprodutibilidade em R e GitHub",
-    "text": "Aula prática 5: reprodutibilidade em R e GitHub\n\n\n↑ Topo"
+    "text": "Aula prática 5: reprodutibilidade em R e GitHub\n\nLeitura extra: Capítulo 28 - R para Ciência de Dados.\nLeitura extra: Estatística computacional.\nLeitura extra: Relatórios reprodutíveis com R.\nLeitura extra: Reproducible R.\nLeitura extra: Reproducible Research in R.\nLeitura extra: Building Skills in Quantitative Biology.\n\n\n\n↑ Topo"
   },
   {
     "objectID": "syllabus/index.html",
     "href": "syllabus/index.html",
     "title": "Plano de ensino",
     "section": "",
-    "text": "Olá! Bem-vindos!\nEsta é a webpage da disciplina introR: introdução à linguagem R.\nAcesse o PDF do plano de ensino completo.\nAcesse as outras páginas para cronograma, tarefas e projetos.\nDúvidas, entre em contato enviando uma mensagem.\n\n\nEmenta\nA disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem. Por fim, fomentar a discussão sobre ciência aberta e reprodutibilidade em trabalho científicos.\n\n\nObjetivos dos curso\n\nApresentar os conceitos e aplicações do controle de versão com git/GitHub, destacando sua importância para o trabalho colaborativo em ciência.\nExplorar aspectos teóricos e práticos do uso do software git e de repositórios remotos no GitHub.\nIntroduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyverse.\nDesenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.\nAbordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes.\nDiscussão sobre ciência aberta e reprodutibilidade em trabalho científicos.\n\n\n\nBibliografia principal\n\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.\nPerez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology, 12(7), e1004947.\nBraga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364–1380.\nWickham, H., Cetinkaya-Rundel, M., & Grolemund, G. (2023). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.\nWickham, H. (2019). Advanced R. Chapman and Hall/CRC.\n\n\n\n↑ Topo"
+    "text": "Olá! Bem-vindos!\nEsta é a webpage da disciplina introR: introdução à linguagem R.\nAcesse o PDF do plano de ensino completo.\nAcesse as outras páginas para cronograma, leituras, tarefas e projetos.\nDúvidas, entre em contato enviando uma mensagem.\n\n\nEmenta\nA disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem. Por fim, a disciplina tem o objetivo de fomentar a discussão sobre ciência aberta e reprodutibilidade em trabalho científicos.\n\n\nObjetivos dos curso\n\nApresentar os conceitos e aplicações do controle de versão com git/GitHub, destacando sua importância para o trabalho colaborativo em ciência.\nExplorar aspectos teóricos e práticos do uso do software git e de repositórios remotos no GitHub.\nIntroduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyverse.\nDesenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.\nAbordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes.\nDiscutir ciência aberta e reprodutibilidade em trabalho científicos.\n\n\n\nBibliografia principal\n\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.\nPerez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). Ten Simple Rules for Taking Advantage of Git and GitHub. PLOS Computational Biology, 12(7), e1004947.\nBraga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution. Methods in Ecology and Evolution, 14(6), 1364–1380.\nWickham, H., Cetinkaya-Rundel, M., & Grolemund, G. (2023). R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.\nWickham, H. (2019). Advanced R. Chapman and Hall/CRC.\n\n\n\n↑ Topo"
   }
 ]
