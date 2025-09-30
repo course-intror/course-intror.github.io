@@ -96,6 +96,41 @@ Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., B
 
 Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510). PLOS Computational Biology, 13(6), e1005510.
 
+## Tópico especial: Large Language Models (LLMs)
+
+Binz, M., Alaniz, S., Roskies, A., Aczel, B., Bergstrom, C. T., Allen, C., Schad, D., Wulff, D., West, J. D., Zhang, Q., Shiffrin, R. M., Gershman, S. J., Popov, V., Bender, E. M., Marelli, M., Botvinick, M. M., Akata, Z., & Schulz, E. (2025). [How should the advancement of large language models affect the practice of science?](https://doi.org/10.1073/pnas.2401227121) Proceedings of the National Academy of Sciences, 122(5), e2401227121.
+
+Brown, C. J., & Spillias, S. (2025). [Prompting large language models for quality ecological statistics](https://ecoevorxiv.org/repository/view/9493/). EcoEvoRxiv. 
+
+Campbell, H., Bluck, T., Curry, E., Harris, D., Pike, B., & Wright, B. (2024).[Should we still teach or learn coding? A postgraduate student perspective on the use of large language models for coding in ecology and evolution](https://doi.org/10.1111/2041-210X.14396). Methods in Ecology and Evolution, 15(10), 1767–1770. 
+
+Castro, A., Pinto, J., Reino, L., Pipek, P., & Capinha, C. (2024). [Large language models overcome the challenges of unstructured text data in ecology](https://doi.org/10.1016/j.ecoinf.2024.102742). Ecological Informatics, 82, 102742. 
+
+Cooper, N., Clark, A. T., Lecomte, N., Qiao, H., & Ellison, A. M. (2024). [Harnessing large language models for coding, teaching and inclusion to empower research in ecology and evolution](https://doi.org/10.1111/2041-210X.14325). Methods in Ecology and Evolution, 15(10), 1757–1763.
+
+Dorm, F., Millard, J., Purves, D., Harfoot, M., & Aodha, O. M. (2025). [Large language models possess some ecological knowledge, but how much?](https://doi.org/10.1101/2025.02.10.637097) (p. 2025.02.10.637097). bioRxiv.
+
+Johnson, T. F., Simmons, B. I., Millard, J., Strydom, T., Danet, A., Sweeny, A. R., & Evans, L. C. (2024). [Pressure to publish introduces large-language model risks](https://doi.org/10.1111/2041-210X.14397). Methods in Ecology and Evolution, 15(10), 1771–1773.
+
+Mammides, C., & Papadopoulos, H. (2024). [The role of large language models in interdisciplinary research: Opportunities, challenges and ways forward](https://doi.org/10.1111/2041-210X.14398). Methods in Ecology and Evolution, 15(10), 1774–1776.
+
+Millard, J., Christie, A. P., Dicks, L. V., Isip, J. E., Johnson, T. F., Skinner, G., & Spake, R. (2024). [ChatGPT is likely reducing opportunity for support, friendship and learned kindness in research](https://doi.org/10.1111/2041-210X.14395). Methods in Ecology and Evolution, 15(10), 1764–1766.
+
+Peters, U., & Chin-Yee, B. (2025). [Generalization bias in large language model summarization of scientific research](https://doi.org/10.1098/rsos.241776). Royal Society Open Science, 12(4), 241776.
+
+Smith, G. R., Bello, C., Bialic-Murphy, L., Clark, E., Delavaux, C. S., Lauriere, C. F. de, Hoogen, J. van den, Lauber, T., Ma, H., Maynard, D. S., Mirman, M., Mo, L., Rebindaine, D., Reek, J. E., Werden, L. K., Wu, Z., Yang, G., Zhao, Q., Zohner, C. M., & Crowther, T. W. (2024). [Ten simple rules for using large language models in science, version 1.0](https://doi.org/10.1371/journal.pcbi.1011767). PLOS Computational Biology, 20(1), e1011767. 
+
+[The rise of large language models](https://doi.org/10.1038/s43588-025-00890-x). (2025). Nature Computational Science, 5(9), 689–690.
+
+Wills, S., Poon, S. T. S., Salili-James, A., & Scott, B. (2024).[ The use of generative AI for coding in academia](https://doi.org/10.1111/2041-210X.14454). Methods in Ecology and Evolution, 15(12), 2189–2191.
+
+Yu, S., Ran, N., & Liu, J. (2024). [Large-language models: The game-changers for materials science research](https://doi.org/10.1016/j.aichem.2024.100076). Artificial Intelligence Chemistry, 2(2), 100076. 
+
+Zhang, Q., Ding, K., Lv, T., Wang, X., Yin, Q., Zhang, Y., Yu, J., Wang, Y., Li, X., Xiang, Z., Zhuang, X., Wang, Z., Qin, M., Zhang, M., Zhang, J., Cui, J., Xu, R., Chen, H., Fan, X., … Chen, H. (2025). [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://doi.org/10.1145/3715318). ACM Comput. Surv., 57(6), 161:1-161:38. 
+
+Zhang, Y., Khan, S. A., Mahmud, A., Yang, H., Lavin, A., Levin, M., Frey, J., Dunnmon, J., Evans, J., Bundy, A., Dzeroski, S., Tegner, J., & Zenil, H. (2025). [Exploring the role of large language models in the scientific method: From hypothesis to discovery](https://doi.org/10.1038/s44387-025-00019-5). Npj Artificial Intelligence, 1(1), 14. 
+Zhang, Y., Lin, S., Xiong, Y., Li, N., Zhong, L., Ding, L., & Hu, Q. (2025). [Fine-tuning large language models for interdisciplinary environmental challenges](https://doi.org/10.1016/j.ese.2025.100608). Environmental Science and Ecotechnology, 27, 100608. 
+
 <style>
 #topBtn {
   display: none;
