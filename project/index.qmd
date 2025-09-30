@@ -7,7 +7,46 @@ toc: true
 editor: source
 ---
 
+## Dados
 
+Desde 2017, o [Laboratório de Ecologia Espacial e Conservação (LEEC)]() e o [Laboratório de Biologia da Conservação (LABIC)]() da [Unesp - Rio Claro]() tem reunido informações de ocorrência de espécies, comunidades ecológicas e interações entre espécies para os Neotrópicos, Brasil e Mata Atlântica.
+
+Esses dados têm sido disponibilizados no formato de *data papers* em uma edição especial da revista *Ecology*.
+
+*Data papers* enfatizam a coleta, organização e síntese de dados e fornecem documentação completa de conjuntos de dados de valor ecológico. Somente o **resumo** é formatado para publicação na *Ecology*. Os **dados** e **metadados** são publicados como informações complementares a este resumo e são fornecidos no momento da submissão. Mais detalhes em [Data Paper Guidelines](https://www.esa.org/wp-content/uploads/2022/05/ESA-Data-Paper-Guidelines.pdf).
+
+Especificamente para a Mata Atlântica, a *Ecology* reservou uma edição especial: [ATLANTIC: Data Papers from a biodiversity hotspot](https://esajournals.onlinelibrary.wiley.com/doi/toc/10.1002/(ISSN)1939-9170.AtlanticPapers). Essa edição possui data papers apenas para a Mata Atlântica.
+
+Grande parte dos dados estão reunidos num repositório do GitHub: [ATLANTIC SERIES: Data on the richest Neotropical hotspot](https://github.com/LEEClab/Atlantic_series).
+
+![](atlantic-series.jpg){fig-align="center" width=30%}
+
+## Pacote
+
+Pacote [atlanticr](https://mauriciovancine.github.io/atlanticr/), desenvolvido para facilitar o acesso, download e manuseio de conjuntos de dados sobre ocorrências de espécies, comunidades ecológicas, limites geográficos e variáveis ambientais da Mata Atlântica. 
+
+O objetivo deste pacote é fornecer dados do ATLANTIC, uma série de *data papers* da *Ecology* sobre dados da Mata Atlântica. 
+
+Ao permitir que os usuários baixem e manipulem esses conjuntos de dados, o [atlanticr](https://mauriciovancine.github.io/atlanticr/) melhora a reprodutibilidade e a eficiência da pesquisa ecológica para a Mata Atlântica. 
+
+O pacote [atlanticr](https://mauriciovancine.github.io/atlanticr/) facilita a integração rápida e precisa de dados de biodiversidade desta importante região sul-americana, promovendo a pesquisa e aumentando a reprodutibilidade das análises ecológicas.
+
+![](featured-hex-atlanticr.png){fig-align="center" width=30%}
+
+## Projetos
+
+- Esses dados estão muito bagunçados
+- Gostaria de ajuda para organizar eles e pensar no pacote
+- Grupos, duplas ou individual
+- Baixar, organizar e formartar esses dados para uso no pacote
+
+## Leituras
+
+GBIF. (2022). [Artigos de dados](https://www.gbif.org/pt/data-papers).
+
+Mello, M. (2017). [O que é um data paper?](https://marcoarmello.wordpress.com/2017/09/11/datapaper/). Blog Sobrevivendo na Ciência.
+
+Silva, F. C. C. da, Stueber, K., & Witt, A. S. (2022). [Análise das publicações de Data Papers sobre Biodiversidade: Considerações acerca da preservação digital](https://doi.org/10.20396/rebpred.v3i00.16556). Revista Brasileira de Preservação Digital, 3, e022012.
 
 <style>
 #topBtn {

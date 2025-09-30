@@ -109,7 +109,35 @@
     "href": "project/index.html",
     "title": "Projetos",
     "section": "",
-    "text": "↑ Topo"
+    "text": "Desde 2017, o Laboratório de Ecologia Espacial e Conservação (LEEC) e o Laboratório de Biologia da Conservação (LABIC) da Unesp - Rio Claro tem reunido informações de ocorrência de espécies, comunidades ecológicas e interações entre espécies para os Neotrópicos, Brasil e Mata Atlântica.\nEsses dados têm sido disponibilizados no formato de data papers em uma edição especial da revista Ecology.\nData papers enfatizam a coleta, organização e síntese de dados e fornecem documentação completa de conjuntos de dados de valor ecológico. Somente o resumo é formatado para publicação na Ecology. Os dados e metadados são publicados como informações complementares a este resumo e são fornecidos no momento da submissão. Mais detalhes em Data Paper Guidelines.\nEspecificamente para a Mata Atlântica, a Ecology reservou uma edição especial: ATLANTIC: Data Papers from a biodiversity hotspot. Essa edição possui data papers apenas para a Mata Atlântica.\nGrande parte dos dados estão reunidos num repositório do GitHub: ATLANTIC SERIES: Data on the richest Neotropical hotspot."
+  },
+  {
+    "objectID": "project/index.html#dados",
+    "href": "project/index.html#dados",
+    "title": "Projetos",
+    "section": "",
+    "text": "Desde 2017, o Laboratório de Ecologia Espacial e Conservação (LEEC) e o Laboratório de Biologia da Conservação (LABIC) da Unesp - Rio Claro tem reunido informações de ocorrência de espécies, comunidades ecológicas e interações entre espécies para os Neotrópicos, Brasil e Mata Atlântica.\nEsses dados têm sido disponibilizados no formato de data papers em uma edição especial da revista Ecology.\nData papers enfatizam a coleta, organização e síntese de dados e fornecem documentação completa de conjuntos de dados de valor ecológico. Somente o resumo é formatado para publicação na Ecology. Os dados e metadados são publicados como informações complementares a este resumo e são fornecidos no momento da submissão. Mais detalhes em Data Paper Guidelines.\nEspecificamente para a Mata Atlântica, a Ecology reservou uma edição especial: ATLANTIC: Data Papers from a biodiversity hotspot. Essa edição possui data papers apenas para a Mata Atlântica.\nGrande parte dos dados estão reunidos num repositório do GitHub: ATLANTIC SERIES: Data on the richest Neotropical hotspot."
+  },
+  {
+    "objectID": "project/index.html#pacote",
+    "href": "project/index.html#pacote",
+    "title": "Projetos",
+    "section": "Pacote",
+    "text": "Pacote\nPacote atlanticr, desenvolvido para facilitar o acesso, download e manuseio de conjuntos de dados sobre ocorrências de espécies, comunidades ecológicas, limites geográficos e variáveis ambientais da Mata Atlântica.\nO objetivo deste pacote é fornecer dados do ATLANTIC, uma série de data papers da Ecology sobre dados da Mata Atlântica.\nAo permitir que os usuários baixem e manipulem esses conjuntos de dados, o atlanticr melhora a reprodutibilidade e a eficiência da pesquisa ecológica para a Mata Atlântica.\nO pacote atlanticr facilita a integração rápida e precisa de dados de biodiversidade desta importante região sul-americana, promovendo a pesquisa e aumentando a reprodutibilidade das análises ecológicas."
+  },
+  {
+    "objectID": "project/index.html#projetos",
+    "href": "project/index.html#projetos",
+    "title": "Projetos",
+    "section": "Projetos",
+    "text": "Projetos\n\nEsses dados estão muito bagunçados\nGostaria de ajuda para organizar eles e pensar no pacote\nGrupos, duplas ou individual\nBaixar, organizar e formartar esses dados para uso no pacote"
+  },
+  {
+    "objectID": "project/index.html#leituras",
+    "href": "project/index.html#leituras",
+    "title": "Projetos",
+    "section": "Leituras",
+    "text": "Leituras\nGBIF. (2022). Artigos de dados.\nMello, M. (2017). O que é um data paper?. Blog Sobrevivendo na Ciência.\nSilva, F. C. C. da, Stueber, K., & Witt, A. S. (2022). Análise das publicações de Data Papers sobre Biodiversidade: Considerações acerca da preservação digital. Revista Brasileira de Preservação Digital, 3, e022012.\n\n\n↑ Topo"
   },
   {
     "objectID": "contact.html",
