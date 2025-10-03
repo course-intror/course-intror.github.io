@@ -39,9 +39,15 @@ Oliveira PF, Guerra S, Mcdonnell, R. (2018). [Ciência de dados com R – Introd
 
 Wickham, H., Cetinkaya-Rundel, M., Grolemund, G. (2023.) [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://r4ds.hadley.nz). O'Reilly Media.
 
+## Aula teórica 4: introdução à programação em R (visualização)
+
+Chang W. 2013. [R Graphics Cookbook: Practical Recipes for Visualizing Data](https://r-graphics.org). 2 ed. O'Reilly Media.
+
 Wickham H. (2020). [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org). 3 ed. Springer.
 
-## Aula teórica 4: tópicos avançados em programação no R
+Wilk CO. 2019. [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://serialmentor.com/dataviz). O'Reilly Media.
+
+## Aula teórica 5: tópicos avançados em programação no R
 
 Gagolewski, M. (2024). [Deep R Programming](https://deepr.gagolewski.com/index.html). Marek Gagolewski.
 
@@ -51,7 +57,7 @@ Wickham, H., & Bryan J. (2015). [R packages](https://r-pkgs.org). 2 ed. O’Reil
 
 Wickham, H. (2019). [Advanced R](https://adv-r.hadley.nz). 2 ed. Chapman and Hall/CRC.
 
-## Aula teórica 5: reprodutibilidade em R e GitHub
+## Aula teórica 6: reprodutibilidade em R e GitHub
 
 Blischak, J. D., Carbonetto, P., & Stephens, M. (2019). [Creating and sharing reproducible research code the workflowr way](https://doi.org/10.12688/f1000research.20843.1). F1000Research.
 

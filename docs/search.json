@@ -25,21 +25,28 @@
     "href": "reading/index.html#aula-teórica-3-introdução-à-programação-em-r-tidyverse",
     "title": "Leituras",
     "section": "Aula teórica 3: introdução à programação em R (tidyverse)",
-    "text": "Aula teórica 3: introdução à programação em R (tidyverse)\nWickham, H. (2014). Tidy data. Journal of Statistical Software 59(10): 1-23.\nWickham, H. et al. (2019). Welcome to the Tidyverse. Journal of Open Source Software 4(43): 1686.\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.\nDamiani A, Milz B, Lente C, Falbel D, Correa F, Trecenti J, Luduvice N, Lacerda T, Amorim W. (2025). Ciência de Dados em R.\nOliveira PF, Guerra S, Mcdonnell, R. (2018). Ciência de dados com R – Introdução. IBPAD.\nWickham, H., Cetinkaya-Rundel, M., Grolemund, G. (2023.) R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media.\nWickham H. (2020). ggplot2: Elegant Graphics for Data Analysis. 3 ed. Springer."
+    "text": "Aula teórica 3: introdução à programação em R (tidyverse)\nWickham, H. (2014). Tidy data. Journal of Statistical Software 59(10): 1-23.\nWickham, H. et al. (2019). Welcome to the Tidyverse. Journal of Open Source Software 4(43): 1686.\nDa Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine, M. H. (2022). Análises Ecológicas no R. Recife: Nupeea. Bauru, SP: Canal 6.\nDamiani A, Milz B, Lente C, Falbel D, Correa F, Trecenti J, Luduvice N, Lacerda T, Amorim W. (2025). Ciência de Dados em R.\nOliveira PF, Guerra S, Mcdonnell, R. (2018). Ciência de dados com R – Introdução. IBPAD.\nWickham, H., Cetinkaya-Rundel, M., Grolemund, G. (2023.) R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O’Reilly Media."
   },
   {
-    "objectID": "reading/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
-    "href": "reading/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
+    "objectID": "reading/index.html#aula-teórica-4-introdução-à-programação-em-r-visualização",
+    "href": "reading/index.html#aula-teórica-4-introdução-à-programação-em-r-visualização",
     "title": "Leituras",
-    "section": "Aula teórica 4: tópicos avançados em programação no R",
-    "text": "Aula teórica 4: tópicos avançados em programação no R\nGagolewski, M. (2024). Deep R Programming. Marek Gagolewski.\nJones, E., Harden, S., & Crawley, M. J. (2022). The R book. 3 ed. Wiley.\nWickham, H., & Bryan J. (2015). R packages. 2 ed. O’Reilly Media.\nWickham, H. (2019). Advanced R. 2 ed. Chapman and Hall/CRC."
+    "section": "Aula teórica 4: introdução à programação em R (visualização)",
+    "text": "Aula teórica 4: introdução à programação em R (visualização)\nChang W. 2013. R Graphics Cookbook: Practical Recipes for Visualizing Data. 2 ed. O’Reilly Media.\nWickham H. (2020). ggplot2: Elegant Graphics for Data Analysis. 3 ed. Springer.\nWilk CO. 2019. Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures. O’Reilly Media."
   },
   {
-    "objectID": "reading/index.html#aula-teórica-5-reprodutibilidade-em-r-e-github",
-    "href": "reading/index.html#aula-teórica-5-reprodutibilidade-em-r-e-github",
+    "objectID": "reading/index.html#aula-teórica-5-tópicos-avançados-em-programação-no-r",
+    "href": "reading/index.html#aula-teórica-5-tópicos-avançados-em-programação-no-r",
     "title": "Leituras",
-    "section": "Aula teórica 5: reprodutibilidade em R e GitHub",
-    "text": "Aula teórica 5: reprodutibilidade em R e GitHub\nBlischak, J. D., Carbonetto, P., & Stephens, M. (2019). Creating and sharing reproducible research code the workflowr way. F1000Research.\nBuckley, Y. M., Bardgett, R., Gordon, R., Iler, A., Mariotte, P., Ponton, S., & Hector, A. (2025). Using dynamic documents to mend cracks in the reproducible research pipeline. Journal of Ecology, 113(2), 270–274.\nChen, K. Y., Toro-Moreno, M., & Subramaniam, A. R. (2025). GitHub is an effective platform for collaborative and reproducible laboratory research. ArXiv, arXiv:2408.09344v2. Kamvar, Z. N., López-Uribe, M. M., Coughlan, S., Grünwald, N. J., Lapp, H., & Manel, S. (2017). Developing educational resources for population genetics in R: An open and collaborative approach. Molecular Ecology Resources, 17(1), 120–128.\nPeikert, A., & Brandmaier, A. M. (2021). A Reproducible Data Analysis Workflow With R Markdown, Git, Make, and Docker. Quantitative and Computational Methods in Behavioral Sciences, 1–27.\nPeikert, A., van Lissa, C. J., & Brandmaier, A. M. (2021). Reproducible Research in R: A Tutorial on How to Do the Same Thing More Than Once. Psych, 3(4), 836–867.\nWeberpals, J., & Wang, S. V. (2024). The FAIRification of research in real-world evidence: A practical introduction to reproducible analytic workflows using Git and R. Pharmacoepidemiology and Drug Safety, 33(1), e5740."
+    "section": "Aula teórica 5: tópicos avançados em programação no R",
+    "text": "Aula teórica 5: tópicos avançados em programação no R\nGagolewski, M. (2024). Deep R Programming. Marek Gagolewski.\nJones, E., Harden, S., & Crawley, M. J. (2022). The R book. 3 ed. Wiley.\nWickham, H., & Bryan J. (2015). R packages. 2 ed. O’Reilly Media.\nWickham, H. (2019). Advanced R. 2 ed. Chapman and Hall/CRC."
+  },
+  {
+    "objectID": "reading/index.html#aula-teórica-6-reprodutibilidade-em-r-e-github",
+    "href": "reading/index.html#aula-teórica-6-reprodutibilidade-em-r-e-github",
+    "title": "Leituras",
+    "section": "Aula teórica 6: reprodutibilidade em R e GitHub",
+    "text": "Aula teórica 6: reprodutibilidade em R e GitHub\nBlischak, J. D., Carbonetto, P., & Stephens, M. (2019). Creating and sharing reproducible research code the workflowr way. F1000Research.\nBuckley, Y. M., Bardgett, R., Gordon, R., Iler, A., Mariotte, P., Ponton, S., & Hector, A. (2025). Using dynamic documents to mend cracks in the reproducible research pipeline. Journal of Ecology, 113(2), 270–274.\nChen, K. Y., Toro-Moreno, M., & Subramaniam, A. R. (2025). GitHub is an effective platform for collaborative and reproducible laboratory research. ArXiv, arXiv:2408.09344v2. Kamvar, Z. N., López-Uribe, M. M., Coughlan, S., Grünwald, N. J., Lapp, H., & Manel, S. (2017). Developing educational resources for population genetics in R: An open and collaborative approach. Molecular Ecology Resources, 17(1), 120–128.\nPeikert, A., & Brandmaier, A. M. (2021). A Reproducible Data Analysis Workflow With R Markdown, Git, Make, and Docker. Quantitative and Computational Methods in Behavioral Sciences, 1–27.\nPeikert, A., van Lissa, C. J., & Brandmaier, A. M. (2021). Reproducible Research in R: A Tutorial on How to Do the Same Thing More Than Once. Psych, 3(4), 836–867.\nWeberpals, J., & Wang, S. V. (2024). The FAIRification of research in real-world evidence: A practical introduction to reproducible analytic workflows using Git and R. Pharmacoepidemiology and Drug Safety, 33(1), e5740."
   },
   {
     "objectID": "reading/index.html#discussão-desafios-da-reprodutibilidade-na-ciência",
@@ -109,7 +116,7 @@
     "href": "schedule/index.html",
     "title": "Cronograma",
     "section": "",
-    "text": "Dia\nAtividade\nLeituras\nSlides\nScripts\nTarefas\n\n\n\n\nDia 01\nBoas-vindas e apresentações\n\n\n\n\n\n\nDia 01\nAula teórica 1: controle de versão\n\n\n\n\n\n\nDia 01\nAula prática 1: controle de versão\n\n\n\n\n\n\nDia 02\nAula teórica 2: introdução à programação em R (Base R)\n\n\n\n\n\n\nDia 02\nAula teórica 3: introdução à programação em R (tidyverse)\n\n\n\n\n\n\nDia 03\nAula teórica 4: tópicos avançados em programação no R\n\n\n\n\n\n\nDia 03\nAula teórica 5: reprodutibilidade em R e GitHub\n\n\n\n\n\n\nDia 03\nAula prática 2: reprodutibilidade em R e GitHub\n\n\n\n\n\n\nDia 04\nProjeto prático: desenvolvimento de uma análise ecológica reprodutível\n\n\n\n\n\n\nDia 04\nProjeto prático: apresentação dos projetos\n\n\n\n\n\n\nDia 04\nDiscussão: ciência aberta e reprodutibilidade\n\n\n\n\n\n\nDia 04\nEncerramento"
+    "text": "Dia\nAtividade\nLeituras\nSlides\nScripts\nTarefas\n\n\n\n\nDia 01\nBoas-vindas e apresentações\n\n\n\n\n\n\nDia 01\nAula teórica 1: controle de versão\n\n\n\n\n\n\nDia 01\nAula prática 1: controle de versão\n\n\n\n\n\n\nDia 02\nAula teórica 2: introdução à programação em R (Base R)\n\n\n\n\n\n\nDia 02\nAula teórica 3: introdução à programação em R (tidyverse)\n\n\n\n\n\n\nDia 02\nAula teórica 4: introdução à programação em R (visualização)\n\n\n\n\n\n\nDia 03\nAula teórica 5: tópicos avançados em programação no R\n\n\n\n\n\n\nDia 03\nAula teórica 6: reprodutibilidade em R e GitHub\n\n\n\n\n\n\nDia 03\nAula prática 2: reprodutibilidade em R e GitHub\n\n\n\n\n\n\nDia 04\nProjeto prático: desenvolvimento de uma análise ecológica reprodutível\n\n\n\n\n\n\nDia 04\nProjeto prático: apresentação dos projetos\n\n\n\n\n\n\nDia 04\nDiscussão: ciência aberta e reprodutibilidade\n\n\n\n\n\n\nDia 04\nEncerramento"
   },
   {
     "objectID": "project/index.html",
@@ -182,18 +189,25 @@
     "text": "Aula teórica 3: introdução à programação em R (tidyverse)\n\nLeitura extra: Capítulo 5 - Análises Ecológicas no R.\nLeitura extra: Aprenda a utilizar o tidyverse.\nLeitura extra: Introdução à Análise de Dados em R utilizando Tidyverse.\nExercícios extras: capítulo 5 - Análises Ecológicas no R.\nExercícios extras: Introdução ao Tidyverse.\nExercícios extras: Fundamentos do Tidyverse em R."
   },
   {
-    "objectID": "task/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
-    "href": "task/index.html#aula-teórica-4-tópicos-avançados-em-programação-no-r",
+    "objectID": "task/index.html#aula-teórica-4-introdução-à-programação-em-r-visualização",
+    "href": "task/index.html#aula-teórica-4-introdução-à-programação-em-r-visualização",
     "title": "Tarefas",
-    "section": "Aula teórica 4: tópicos avançados em programação no R",
-    "text": "Aula teórica 4: tópicos avançados em programação no R\n\nLeitura extra: Capítulo 3 - Ciência de Dados em R.\nLeitura extra: Fluxo de Controle e Laços.\nLeitura extra: Capítulo 5 - Advanced R.\nLeitura extra: Capítulo 9 - Advanced R.\nLeitura extra: Estruturas de Controle de Fluxo.\nExercícios extras: Controle de Fluxo e Laços.\nExercícios extras: Controle de Fluxo.\nExercícios extras: Laços Avançados.\nExercícios extras: Estruturas de Repetição."
+    "section": "Aula teórica 4: introdução à programação em R (visualização)",
+    "text": "Aula teórica 4: introdução à programação em R (visualização)\n\nLeitura extra: Capítulo 6 - Análises Ecológicas no R.\nLeitura extra: The R Graph Gallery.\nLeitura extra: R Charts.\nExercícios extras: capítulo 6 - Análises Ecológicas no R.\nExercícios extras: Data Visualization in R with ggplot2."
   },
   {
-    "objectID": "task/index.html#aula-prática-5-reprodutibilidade-em-r-e-github",
-    "href": "task/index.html#aula-prática-5-reprodutibilidade-em-r-e-github",
+    "objectID": "task/index.html#aula-teórica-5-tópicos-avançados-em-programação-no-r",
+    "href": "task/index.html#aula-teórica-5-tópicos-avançados-em-programação-no-r",
     "title": "Tarefas",
-    "section": "Aula prática 5: reprodutibilidade em R e GitHub",
-    "text": "Aula prática 5: reprodutibilidade em R e GitHub\n\nLeitura extra: Capítulo 28 - R para Ciência de Dados.\nLeitura extra: Estatística computacional.\nLeitura extra: Relatórios reprodutíveis com R.\nLeitura extra: Reproducible R.\nLeitura extra: Reproducible Research in R.\nLeitura extra: Building Skills in Quantitative Biology.\n\n\n\n↑ Topo"
+    "section": "Aula teórica 5: tópicos avançados em programação no R",
+    "text": "Aula teórica 5: tópicos avançados em programação no R\n\nLeitura extra: Capítulo 3 - Ciência de Dados em R.\nLeitura extra: Fluxo de Controle e Laços.\nLeitura extra: Capítulo 5 - Advanced R.\nLeitura extra: Capítulo 9 - Advanced R.\nLeitura extra: Estruturas de Controle de Fluxo.\nExercícios extras: Controle de Fluxo e Laços.\nExercícios extras: Controle de Fluxo.\nExercícios extras: Laços Avançados.\nExercícios extras: Estruturas de Repetição."
+  },
+  {
+    "objectID": "task/index.html#aula-prática-6-reprodutibilidade-em-r-e-github",
+    "href": "task/index.html#aula-prática-6-reprodutibilidade-em-r-e-github",
+    "title": "Tarefas",
+    "section": "Aula prática 6: reprodutibilidade em R e GitHub",
+    "text": "Aula prática 6: reprodutibilidade em R e GitHub\n\nLeitura extra: Capítulo 28 - R para Ciência de Dados.\nLeitura extra: Estatística computacional.\nLeitura extra: Relatórios reprodutíveis com R.\nLeitura extra: Reproducible R.\nLeitura extra: Reproducible Research in R.\nLeitura extra: Building Skills in Quantitative Biology.\n\n\n\n↑ Topo"
   },
   {
     "objectID": "syllabus/index.html",

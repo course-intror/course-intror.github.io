@@ -1,6 +1,6 @@
 ---
 title: "Plano de ensino"
-subtitle: "Disciplina de pós-graduação de introdução à programação usando a linguagem R com foco em dados ecológicos."
+subtitle: "Disciplina de pós-graduação de introdução ao controle de versão e à programação usando a linguagem R com foco em dados ecológicos."
 page-layout: full
 title-block-banner: false
 toc: true

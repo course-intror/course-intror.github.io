@@ -53,7 +53,19 @@ editor: source
 
 - Exercícios extras: [Fundamentos do Tidyverse em R](https://www.datacamp.com/pt/tracks/tidyverse-fundamentals).
 
-## Aula teórica 4: tópicos avançados em programação no R
+## Aula teórica 4: introdução à programação em R (visualização)
+
+- Leitura extra: [Capítulo 6  - Análises Ecológicas no R](https://analises-ecologicas.com/cap6).
+
+- Leitura extra: [The R Graph Gallery](https://r-graph-gallery.com/).
+
+- Leitura extra: [R Charts](https://r-charts.com/).
+
+- Exercícios extras: [capítulo 6 - Análises Ecológicas no R](https://analises-ecologicas.com/cap6#exerc%C3%ADcios).
+
+- Exercícios extras: [Data Visualization in R with ggplot2](https://sscc.wisc.edu/sscc/pubs/dvr/exercises.html).
+
+## Aula teórica 5: tópicos avançados em programação no R
 
 - Leitura extra: [Capítulo 3 - Ciência de Dados em R](https://livro.curso-r.com/3-12-controle-de-fluxo.html).
 
@@ -73,7 +85,7 @@ editor: source
 
 - Exercícios extras: [Estruturas de Repetição](https://pt.scribd.com/document/735723153/Exercicios-para-estudar-programacao-Lista-3).
 
-## Aula prática 5: reprodutibilidade em R e GitHub
+## Aula prática 6: reprodutibilidade em R e GitHub
 
 - Leitura extra: [Capítulo 28 - R para Ciência de Dados](https://pt.r4ds.hadley.nz/quarto.html?utm_source=chatgpt.com).
 
