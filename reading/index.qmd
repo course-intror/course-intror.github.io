@@ -47,7 +47,7 @@ Wickham H. (2020). [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2
 
 Wilk CO. 2019. [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://serialmentor.com/dataviz). O'Reilly Media.
 
-## Aula teórica 5: tópicos avançados em programação no R
+## Aula teórica 5: tópicos avançados em programação em R
 
 Gagolewski, M. (2024). [Deep R Programming](https://deepr.gagolewski.com/index.html). Marek Gagolewski.
 
@@ -102,7 +102,29 @@ Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., B
 
 Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). [Good enough practices in scientific computing](https://doi.org/10.1371/journal.pcbi.1005510). PLOS Computational Biology, 13(6), e1005510.
 
-## Tópico especial: Large Language Models (LLMs)
+## Tópico especial I: Ciência Aberta (*Open Science*)
+
+Barnes, N. (2010). [Publish your computer code: It is good enough](https://doi.org/10.1038/467753a). Nature, 467(7317), Article 7317.
+
+Hampton, S. E., Anderson, S. S., Bagby, S. C., Gries, C., Han, X., Hart, E. M., Jones, M. B., Lenhardt, W. C., MacDonald, A., Michener, W. K., Mudge, J., Pourmokhtarian, A., Schildhauer, M. P., Woo, K. H., & Zimmerman, N. (2015). [The Tao of open science for ecology](https://doi.org/10.1890/ES14-00402.1). Ecosphere, 6(7), art120.
+
+Lortie, C. J. (2017). [Open Sesame: R for Data Science is Open Science](https://ojs.library.queensu.ca/index.php/IEE/article/view/6559). Ideas in Ecology and Evolution, 10(1), Article 1. 
+
+Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’Hara, C. C., Jiang, N., & Halpern, B. S. (2017). [Our path to better science in less time using open data science tools](https://doi.org/10.1038/s41559-017-0160). Nature Ecology & Evolution, 1(6), 0160. 
+
+Maedche, A., Elshan, E., Höhle, H., Lehrer, C., Recker, J., Sunyaev, A., Sturm, B., & Werth, O. (2024). [Open Science](https://doi.org/10.1007/s12599-024-00858-7). Business & Information Systems Engineering, 66(4), 517–532.
+
+Mislan, K. A. S., Heer, J. M., & White, E. P. (2016). [Elevating The Status of Code in Ecology](https://doi.org/10.1016/j.tree.2015.11.006). Trends in Ecology & Evolution, 31(1), 4–7. 
+
+Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D., Breckler, S. J., Buck, S., Chambers, C. D., Chin, G., Christensen, G., Contestabile, M., Dafoe, A., Eich, E., Freese, J., Glennerster, R., Goroff, D., Green, D. P., Hesse, B., Humphreys, M., … Yarkoni, T. (2015). [Promoting an open research culture](https://doi.org/10.1126/science.aab2374). Science, 348(6242), 1422–1425.
+
+Ramachandran, R., Bugbee, K., & Murphy, K. (2021). [From Open Data to Open Science](https://doi.org/10.1029/2020EA001562). Earth and Space Science, 8(5), e2020EA001562. 
+
+Roche, D. G., Kruuk, L. E. B., Lanfear, R., & Binning, S. A. (2015). [Public Data Archiving in Ecology and Evolution: How Well Are We Doing?](https://doi.org/10.1371/journal.pbio.1002295) PLOS Biology, 13(11), e1002295.
+
+Thibault, R. T., Amaral, O. B., Argolo, F., Bandrowski, A. E., Alexandra R, D., & Drude, N. I. (2023). [Open Science 2.0: Towards a truly collaborative research ecosystem](https://doi.org/10.1371/journal.pbio.3002362). PLOS Biology, 21(10), e3002362. 
+
+## Tópico especial II: Large Language Models (LLMs)
 
 Binz, M., Alaniz, S., Roskies, A., Aczel, B., Bergstrom, C. T., Allen, C., Schad, D., Wulff, D., West, J. D., Zhang, Q., Shiffrin, R. M., Gershman, S. J., Popov, V., Bender, E. M., Marelli, M., Botvinick, M. M., Akata, Z., & Schulz, E. (2025). [How should the advancement of large language models affect the practice of science?](https://doi.org/10.1073/pnas.2401227121) Proceedings of the National Academy of Sciences, 122(5), e2401227121.
 

@@ -65,7 +65,7 @@ editor: source
 
 - Exercícios extras: [Data Visualization in R with ggplot2](https://sscc.wisc.edu/sscc/pubs/dvr/exercises.html).
 
-## Aula teórica 5: tópicos avançados em programação no R
+## Aula teórica 5: tópicos avançados em programação em R
 
 - Leitura extra: [Capítulo 3 - Ciência de Dados em R](https://livro.curso-r.com/3-12-controle-de-fluxo.html).
 
