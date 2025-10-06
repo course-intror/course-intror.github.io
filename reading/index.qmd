@@ -23,6 +23,8 @@ Da Silva, F. R., Gonçalves-Souza, T., Paterno, G. B., Provete, D. B., & Vancine
 
 Grolemund, G. (2014). [Hands-on programming with R](https://rstudio-education.github.io/hopr). O’Reilly.
 
+Ihaka, R., & Gentleman, R. (1996). [R: A Language for Data Analysis and Graphics](https://doi.org/10.2307/1390807). Journal of Computational and Graphical Statistics, 5(3), 299.
+
 Matloff, N. S. (2011). The art of R programming: Tour of statistical software design. No Starch Press.
 
 ## Aula teórica 3: introdução à programação em R (tidyverse)
@@ -41,7 +43,28 @@ Wickham, H., Cetinkaya-Rundel, M., Grolemund, G. (2023.) [R for Data Science: Im
 
 ## Aula teórica 4: introdução à programação em R (visualização)
 
+Allen, M., Poggiali, D., Whitaker, K., Marshall, T. R., Van Langen, J., & Kievit, R. A. (2021). [Raincloud plots: A multi-platform tool for robust data visualization](https://doi.org/10.12688/wellcomeopenres.15191.2). Wellcome Open Research, 4, 63. 
+
+Butler, R. C. (2022). [Popularity leads to bad habits: Alternatives to “the statistics” routine of significance, “alphabet soup” and dynamite plots](https://doi.org/10.1111/aab.12734). Annals of Applied Biology, 180(2), 182–195. 
 Chang W. 2013. [R Graphics Cookbook: Practical Recipes for Visualizing Data](https://r-graphics.org). 2 ed. O'Reilly Media.
+
+Doggett, T. J., & Way, C. (2024). [Dynamite plots in surgical research over 10 years: A meta-study using machine-learning analysis](https://doi.org/10.1093/postmj/qgad134). Postgraduate Medical Journal, 100(1182), 262–266. 
+
+Drummond, G., & Vowler, S. (2011). [Show the data, don’t conceal them](https://doi.org/10.1111/j.1476-5381.2011.01251.x). British Journal of Pharmacology, 163(2), 208–210. 
+
+Emerson, J. W., Green, W. A., Schloerke, B., Crowley, J., Cook, D., Hofmann, H., & Wickham, H. (2013). [The Generalized Pairs Plot](https://doi.org/10.1080/10618600.2012.694762). Journal of Computational and Graphical Statistics, 22(1), 79–91. 
+
+Hickey, G. L., Mokhles, M. M., Chambers, D. J., & Kolamunnage-Dona, R. (2018). [Statistical primer: Performing repeated-measures analysis](https://doi.org/10.1093/icvts/ivy009). Interactive CardioVascular and Thoracic Surgery, 26(4), 539–544. 
+
+Kay, M. (2023). [ggdist: Visualizations of Distributions and Uncertainty in the Grammar of Graphics](https://doi.org/10.1109/TVCG.2023.3327195). IEEE Transactions on Visualization and Computer Graphics, 1–11. 
+
+Magnusson, W. E. (2000). Error Bars: Are They the King’s Clothes? Bulletin of the Ecological Society of America, 81(2), 147–150.
+
+Patil, I. (2021). [Visualizations with statistical details: The “ggstatsplot” approach](https://doi.org/10.21105/joss.03167). Journal of Open Source Software, 6(61), 3167. 
+
+Simply Statistics: Open letter to journal editors: [Dynamite plots must die](https://simplystatistics.org/posts/2019-02-21-dynamite-plots-must-die/). (n.d.). Retrieved October 4, 2025.
+
+Weissgerber, T. L., Milic, N. M., Winham, S. J., & Garovic, V. D. (2015). [Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm](https://doi.org/10.1371/journal.pbio.1002128). PLOS Biology, 13(4), e1002128. 
 
 Wickham H. (2020). [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org). 3 ed. Springer.
 
@@ -63,16 +86,23 @@ Blischak, J. D., Carbonetto, P., & Stephens, M. (2019). [Creating and sharing re
 
 Buckley, Y. M., Bardgett, R., Gordon, R., Iler, A., Mariotte, P., Ponton, S., & Hector, A. (2025). [Using dynamic documents to mend cracks in the reproducible research pipeline](https://doi.org/10.1111/1365-2745.14454). Journal of Ecology, 113(2), 270–274.
 
-Chen, K. Y., Toro-Moreno, M., & Subramaniam, A. R. (2025). GitHub is an effective platform for collaborative and reproducible laboratory research. ArXiv, arXiv:2408.09344v2.
+Chen, K. Y., Toro-Moreno, M., & Subramaniam, A. R. (2025). [GitHub is an effective platform for collaborative and reproducible laboratory research](https://arxiv.org/abs/2408.09344). ArXiv, arXiv:2408.09344v2.
+
+Granjon, D. (2022). [Outstanding user interfaces with Shiny](https://doi.org/10.1201/9781003124924). CRC Press.
+
 Kamvar, Z. N., López-Uribe, M. M., Coughlan, S., Grünwald, N. J., Lapp, H., & Manel, S. (2017). [Developing educational resources for population genetics in R: An open and collaborative approach](https://doi.org/10.1111/1755-0998.12558). Molecular Ecology Resources, 17(1), 120–128. 
 
 Peikert, A., & Brandmaier, A. M. (2021). [A Reproducible Data Analysis Workflow With R Markdown, Git, Make, and Docker](https://doi.org/10.5964/qcmb.3763). Quantitative and Computational Methods in Behavioral Sciences, 1–27.
 
 Peikert, A., van Lissa, C. J., & Brandmaier, A. M. (2021). [Reproducible Research in R: A Tutorial on How to Do the Same Thing More Than Once](https://doi.org/10.3390/psych3040053). Psych, 3(4), 836–867.
 
+Sievert, C. (2020). Interactive web-based data visualization with R, plotly, and shiny. CRC Press, Taylor and Francis Group.
+
 Weberpals, J., & Wang, S. V. (2024). [The FAIRification of research in real-world evidence: A practical introduction to reproducible analytic workflows using Git and R](https://doi.org/10.1002/pds.5740). Pharmacoepidemiology and Drug Safety, 33(1), e5740.
 
-## Discussão: desafios da reprodutibilidade na ciência 
+Wickham, H. (2021). [Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R](https://mastering-shiny.org/). O’Reilly Media. 
+
+## Discussão: ciência aberta e reprodutibilidade
 
 Alston, J. M., & Rick, J. A. (2021). [A Beginner's Guide to Conducting Reproducible Research](https://doi.org/10.1002/bes2.1801). Bulletin of the Ecological Society of America, 102(2), 1–14.
 
@@ -113,6 +143,8 @@ Lortie, C. J. (2017). [Open Sesame: R for Data Science is Open Science](https://
 Lowndes, J. S. S., Best, B. D., Scarborough, C., Afflerbach, J. C., Frazier, M. R., O’Hara, C. C., Jiang, N., & Halpern, B. S. (2017). [Our path to better science in less time using open data science tools](https://doi.org/10.1038/s41559-017-0160). Nature Ecology & Evolution, 1(6), 0160. 
 
 Maedche, A., Elshan, E., Höhle, H., Lehrer, C., Recker, J., Sunyaev, A., Sturm, B., & Werth, O. (2024). [Open Science](https://doi.org/10.1007/s12599-024-00858-7). Business & Information Systems Engineering, 66(4), 517–532.
+
+Mendes-Da-Silva, W. (2023). [O que cocentes e pesquisadores na área de gestão de negócios precisam saber a respeito de ciência aberta]( https://doi.org/10.1590/S0034-759020230408). Revista de Administração de Empresas, 63, e0000.
 
 Mislan, K. A. S., Heer, J. M., & White, E. P. (2016). [Elevating The Status of Code in Ecology](https://doi.org/10.1016/j.tree.2015.11.006). Trends in Ecology & Evolution, 31(1), 4–7. 
 
