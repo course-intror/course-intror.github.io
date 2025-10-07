@@ -11,6 +11,8 @@ editor: source
 
 Braga, P. H. P., Hébert, K., Hudgins, E. J., Scott, E. R., Edwards, B. P. M., Sánchez Reyes, L. L., Grainger, M. J., Foroughirad, V., Hillemann, F., Binley, A. D., Brookson, C. B., Gaynor, K. M., Shafiei Sabet, S., Güncan, A., Weierbach, H., Gomes, D. G. E., & Crystal-Ornelas, R. (2023). [Not just for programmers: How GitHub can accelerate collaborative and reproducible research in ecology and evolution](https://doi.org/10.1111/2041-210X.14108). Methods in Ecology and Evolution, 14(6), 1364–1380. 
 
+Chacon, S., Straub, B. (2014). [Pro Git](https://git-scm.com/book/en/v2). 2 ed. Apress.
+
 Perez-Riverol, Y., Gatto, L., Wang, R., Sachsenberg, T., Uszkoreit, J., Leprevost, F. da V., Fufezan, C., Ternent, T., Eglen, S. J., Katz, D. S., Pollard, T. J., Konovalov, A., Flight, R. M., Blin, K., & Vizcaíno, J. A. (2016). [Ten Simple Rules for Taking Advantage of Git and GitHub](https://doi.org/10.1371/journal.pcbi.1004947). PLOS Computational Biology, 12(7), e1004947. 
 
 Kim, A. Y., Herrmann, V., Barreto, R., Calkins, B., Gonzalez-Akre, E., Johnson, D. J., Jordan, J. A., Magee, L., McGregor, I. R., Montero, N., Novak, K., Rogers, T., Shue, J., & Anderson-Teixeira, K. J. (2022). [Implementing GitHub Actions continuous integration to reduce error rates in ecological data collection](https://doi.org/10.1111/2041-210X.13982). Methods in Ecology and Evolution, 13(11), 2572–2585. 
