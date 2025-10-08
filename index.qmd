@@ -23,7 +23,7 @@ editor: source
 
 ::: {#hero-heading}
 
-A disciplina introR apresenta os principais conceitos de controle de versão através do git e GitHub e da linguagem R para o manejo e visualização de dados através do Base R e tidyverse.
+A disciplina introR apresenta os principais conceitos de controle de versão através do git e GitHub e da linguagem R para o manejo e visualização de dados ecológicos através do Base R e tidyverse.
 
 [Saiba mais &rarr;](/syllabus){.about-links .subtitle}
 
